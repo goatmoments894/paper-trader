@@ -1,0 +1,233 @@
+2026-11-12 04:39:20 ET  plan: account PA...47 (paper), cash $1000
+2026-11-12 04:42:43 ET  scan: Daily scan, Thu 2026-11-12 04:39 ET, closes through 2026-11-11 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 1,412 passed the liquidity filter ($5+ and 1,000,000+ shares), 1 had under 30 days; 1,411 scanned. | 453 charts matched a setup: 186 20-day closing-high breakout, 132 bull flag, 91 reclaimed the 20-day average, 36 oversold (RSI under 30), 48 oversold bounce.
+2026-11-12 04:42:43 ET  candidates (40): AAPL, MCD, ANET, RKLB, PEP, KO, TTWO, GE, HD, HUM, NXPI, ABT, ABBV, NEE, TMUS, GILD, LIN, VZ, SPOT, LOW, HWM, HCA, DIS, XEL, SBUX, CME, RIOT, KDP, MDT, CMCSA, NDAQ, LSCC, TEVA, CHTR, MMM, CMG, UPS, VMC, AJG, ZTS
+2026-11-12 04:42:43 ET    AAPL  open 2R +0.227R, 1R +0.137R KEEP | breakout 2R +0.317R (fired 30), 1R +0.162R WATCH
+2026-11-12 04:42:45 ET    MCD   open 2R -0.023R, 1R -0.084R drop | breakout 2R -0.143R (fired 35), 1R -0.167R drop
+2026-11-12 04:42:46 ET    ANET  open 2R -0.215R, 1R -0.125R drop | breakout 2R -0.209R (fired 29), 1R -0.175R drop
+2026-11-12 04:42:47 ET    RKLB  open 2R -0.072R, 1R -0.186R drop | breakout 2R -0.112R (fired 28), 1R -0.024R drop
+2026-11-12 04:42:48 ET    PEP   open 2R -0.077R, 1R -0.097R drop | breakout 2R +0.225R (fired 36), 1R +0.196R WATCH
+2026-11-12 04:42:49 ET    KO    open 2R +0.064R, 1R +0.004R KEEP | breakout 2R +0.078R (fired 36), 1R -0.023R WATCH
+2026-11-12 04:42:50 ET    TTWO  open 2R -0.214R, 1R -0.113R drop | breakout 2R -0.175R (fired 34), 1R +0.018R drop
+2026-11-12 04:42:51 ET    GE    open 2R -0.048R, 1R -0.070R drop | breakout 2R +0.198R (fired 31), 1R +0.042R WATCH
+2026-11-12 04:42:52 ET    HD    open 2R -0.118R, 1R -0.071R drop | breakout 2R +0.076R (fired 31), 1R +0.123R WATCH
+2026-11-12 04:42:53 ET    HUM   open 2R +0.222R, 1R +0.128R KEEP | breakout 2R -0.240R (fired 33), 1R -0.110R drop
+2026-11-12 04:42:54 ET    NXPI  open 2R +0.014R, 1R -0.181R drop | breakout 2R +0.204R (fired 33), 1R -0.008R WATCH
+2026-11-12 04:42:55 ET    ABT   open 2R -0.024R, 1R -0.029R drop | breakout 2R -0.155R (fired 27), 1R +0.045R drop
+2026-11-12 04:42:56 ET    ABBV  open 2R +0.197R, 1R +0.207R KEEP | breakout 2R -0.046R (fired 31), 1R -0.022R drop
+2026-11-12 04:42:57 ET    NEE   open 2R -0.138R, 1R -0.134R drop | breakout 2R +0.227R (fired 25), 1R +0.110R WATCH
+2026-11-12 04:42:57 ET    TMUS  open 2R +0.193R, 1R +0.207R KEEP | breakout 2R +0.197R (fired 36), 1R +0.099R WATCH
+2026-11-12 04:42:58 ET    GILD  open 2R +0.120R, 1R +0.097R KEEP | breakout 2R +0.094R (fired 30), 1R +0.026R WATCH
+2026-11-12 04:42:59 ET    LIN   open 2R +0.139R, 1R +0.153R KEEP | breakout 2R -0.103R (fired 37), 1R -0.003R drop
+2026-11-12 04:43:00 ET    VZ    open 2R +0.106R, 1R +0.103R KEEP | breakout 2R -0.105R (fired 38), 1R -0.061R drop
+2026-11-12 04:43:01 ET    SPOT  open 2R +0.292R, 1R +0.195R KEEP | breakout 2R +0.054R (fired 34), 1R +0.012R WATCH
+2026-11-12 04:43:02 ET    LOW   open 2R -0.180R, 1R -0.245R drop | breakout 2R -0.128R (fired 30), 1R -0.063R drop
+2026-11-12 04:43:03 ET    HWM   open 2R -0.145R, 1R -0.119R drop | breakout 2R +0.095R (fired 30), 1R +0.169R WATCH
+2026-11-12 04:43:04 ET    HCA   open 2R +0.149R, 1R +0.292R KEEP | breakout 2R +0.036R (fired 35), 1R -0.008R drop
+2026-11-12 04:43:05 ET    DIS   open 2R +0.313R, 1R +0.272R KEEP | breakout 2R +0.070R (fired 35), 1R +0.104R WATCH
+2026-11-12 04:43:06 ET    XEL   open 2R -0.005R, 1R -0.009R drop | breakout 2R +0.101R (fired 32), 1R +0.062R WATCH
+2026-11-12 04:43:07 ET    SBUX  open 2R -0.149R, 1R -0.117R drop | breakout 2R +0.095R (fired 35), 1R -0.079R drop
+2026-11-12 04:43:08 ET    CME   open 2R +0.120R, 1R +0.266R KEEP | breakout 2R -0.181R (fired 38), 1R -0.147R drop
+2026-11-12 04:43:08 ET    RIOT  open 2R -0.288R, 1R -0.254R drop | breakout 2R +0.206R (fired 34), 1R +0.241R WATCH
+2026-11-12 04:43:09 ET    KDP   open 2R +0.145R, 1R +0.151R KEEP | breakout 2R +0.216R (fired 35), 1R +0.280R WATCH
+2026-11-12 04:43:10 ET    MDT   open 2R +0.070R, 1R +0.070R KEEP | breakout 2R -0.127R (fired 39), 1R -0.030R drop
+2026-11-12 04:43:11 ET    CMCSA open 2R -0.161R, 1R -0.295R drop | breakout 2R +0.117R (fired 31), 1R +0.148R WATCH
+2026-11-12 04:43:12 ET    NDAQ  open 2R +0.059R, 1R +0.056R KEEP | breakout 2R +0.303R (fired 29), 1R +0.225R WATCH
+2026-11-12 04:43:13 ET    LSCC  open 2R -0.494R, 1R -0.390R drop | breakout 2R -0.234R (fired 32), 1R +0.064R drop
+2026-11-12 04:43:14 ET    TEVA  open 2R -0.015R, 1R +0.069R drop | breakout 2R +0.065R (fired 41), 1R +0.055R WATCH
+2026-11-12 04:43:15 ET    CHTR  open 2R -0.334R, 1R -0.220R drop | breakout 2R -0.126R (fired 34), 1R -0.199R drop
+2026-11-12 04:43:16 ET    MMM   open 2R -0.297R, 1R -0.274R drop | breakout 2R +0.009R (fired 35), 1R +0.009R drop
+2026-11-12 04:43:17 ET    CMG   open 2R -0.057R, 1R -0.107R drop | breakout 2R +0.063R (fired 31), 1R -0.044R WATCH
+2026-11-12 04:43:18 ET    UPS   open 2R -0.041R, 1R -0.064R drop | breakout 2R +0.186R (fired 36), 1R +0.054R WATCH
+2026-11-12 04:43:19 ET    VMC   open 2R +0.048R, 1R +0.009R drop | breakout 2R +0.017R (fired 31), 1R +0.047R drop
+2026-11-12 04:43:20 ET    AJG   open 2R +0.156R, 1R +0.190R KEEP | breakout 2R +0.043R (fired 32), 1R -0.021R drop
+2026-11-12 04:43:21 ET    ZTS   open 2R +0.122R, 1R +0.061R KEEP | breakout 2R +0.493R (fired 32), 1R +0.237R WATCH
+2026-11-12 04:43:22 ET  intraday watchlist: ZTS (+0.49R), AAPL (+0.32R), NDAQ (+0.30R), NEE (+0.23R), PEP (+0.23R), KDP (+0.22R), RIOT (+0.21R), NXPI (+0.20R), GE (+0.20R), TMUS (+0.20R), UPS (+0.19R), CMCSA (+0.12R), XEL (+0.10R), HWM (+0.10R), GILD (+0.09R)
+2026-11-12 04:43:23 ET    SPOT: 0 shares fit (cash left $38.96)
+2026-11-12 04:43:24 ET    AAPL: 0 shares fit (cash left $38.96)
+2026-11-12 04:43:26 ET    HUM: 0 shares fit (cash left $38.96)
+2026-11-12 04:43:27 ET    ABBV: 0 shares fit (cash left $38.96)
+2026-11-12 04:43:28 ET    TMUS: 0 shares fit (cash left $38.96)
+2026-11-12 04:43:29 ET    AJG: 0 shares fit (cash left $38.96)
+2026-11-12 04:43:31 ET    HCA: 0 shares fit (cash left $38.96)
+2026-11-12 04:43:34 ET    LIN: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:37 ET    ZTS: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:37 ET    CME: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:39 ET    GILD: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:39 ET    VZ: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:40 ET    MDT: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:43 ET    KO: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:45 ET    NDAQ: 0 shares fit (cash left $0.53)
+2026-11-12 04:43:47 ET  risk PASS [open] DIS x8 limit 120.13 stop 118.93 target 122.53 max loss $9.6 
+2026-11-12 04:43:47 ET    dry run: not placed
+2026-11-12 04:43:47 ET  risk PASS [open] KDP x1 limit 38.43 stop 38.05 target 39.19 max loss $0.38 
+2026-11-12 04:43:47 ET    dry run: not placed
+2026-11-12 04:43:59 ET  plan: account PA...47 (paper), cash $1000
+2026-11-12 05:42:27 ET  scan: Daily scan, Thu 2026-11-12 04:43 ET, closes through 2026-11-11 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 1,412 passed the liquidity filter ($5+ and 1,000,000+ shares), 1 had under 30 days; 1,411 scanned. | 453 charts matched a setup: 186 20-day closing-high breakout, 132 bull flag, 91 reclaimed the 20-day average, 36 oversold (RSI under 30), 48 oversold bounce.
+2026-11-12 05:42:27 ET  candidates (40): AAPL, MCD, ANET, RKLB, PEP, KO, TTWO, GE, HD, HUM, NXPI, ABT, ABBV, NEE, TMUS, GILD, LIN, VZ, SPOT, LOW, HWM, HCA, DIS, XEL, SBUX, CME, RIOT, KDP, MDT, CMCSA, NDAQ, LSCC, TEVA, CHTR, MMM, CMG, UPS, VMC, AJG, ZTS
+2026-11-12 05:42:28 ET    AAPL  open 2R +0.227R, 1R +0.137R KEEP | breakout 2R +0.317R (fired 30), 1R +0.162R WATCH
+2026-11-12 05:42:29 ET    MCD   open 2R -0.023R, 1R -0.084R drop | breakout 2R -0.143R (fired 35), 1R -0.167R drop
+2026-11-12 05:42:30 ET    ANET  open 2R -0.215R, 1R -0.125R drop | breakout 2R -0.209R (fired 29), 1R -0.175R drop
+2026-11-12 05:42:31 ET    RKLB  open 2R -0.072R, 1R -0.186R drop | breakout 2R -0.112R (fired 28), 1R -0.024R drop
+2026-11-12 05:42:32 ET    PEP   open 2R -0.077R, 1R -0.097R drop | breakout 2R +0.225R (fired 36), 1R +0.196R WATCH
+2026-11-12 05:42:33 ET    KO    open 2R +0.064R, 1R +0.004R KEEP | breakout 2R +0.078R (fired 36), 1R -0.023R WATCH
+2026-11-12 05:42:34 ET    TTWO  open 2R -0.214R, 1R -0.113R drop | breakout 2R -0.175R (fired 34), 1R +0.018R drop
+2026-11-12 05:42:36 ET    GE    open 2R -0.048R, 1R -0.070R drop | breakout 2R +0.198R (fired 31), 1R +0.042R WATCH
+2026-11-12 05:42:37 ET    HD    open 2R -0.118R, 1R -0.071R drop | breakout 2R +0.076R (fired 31), 1R +0.123R WATCH
+2026-11-12 05:42:38 ET    HUM   open 2R +0.222R, 1R +0.128R KEEP | breakout 2R -0.240R (fired 33), 1R -0.110R drop
+2026-11-12 05:42:39 ET    NXPI  open 2R +0.014R, 1R -0.181R drop | breakout 2R +0.204R (fired 33), 1R -0.008R WATCH
+2026-11-12 05:42:40 ET    ABT   open 2R -0.024R, 1R -0.029R drop | breakout 2R -0.155R (fired 27), 1R +0.045R drop
+2026-11-12 05:42:41 ET    ABBV  open 2R +0.197R, 1R +0.207R KEEP | breakout 2R -0.046R (fired 31), 1R -0.022R drop
+2026-11-12 05:42:42 ET    NEE   open 2R -0.138R, 1R -0.134R drop | breakout 2R +0.227R (fired 25), 1R +0.110R WATCH
+2026-11-12 05:42:43 ET    TMUS  open 2R +0.193R, 1R +0.207R KEEP | breakout 2R +0.197R (fired 36), 1R +0.099R WATCH
+2026-11-12 05:42:44 ET    GILD  open 2R +0.120R, 1R +0.097R KEEP | breakout 2R +0.094R (fired 30), 1R +0.026R WATCH
+2026-11-12 05:42:45 ET    LIN   open 2R +0.139R, 1R +0.153R KEEP | breakout 2R -0.103R (fired 37), 1R -0.003R drop
+2026-11-12 05:42:46 ET    VZ    open 2R +0.106R, 1R +0.103R KEEP | breakout 2R -0.105R (fired 38), 1R -0.061R drop
+2026-11-12 05:42:47 ET    SPOT  open 2R +0.292R, 1R +0.195R KEEP | breakout 2R +0.054R (fired 34), 1R +0.012R WATCH
+2026-11-12 05:42:48 ET    LOW   open 2R -0.180R, 1R -0.245R drop | breakout 2R -0.128R (fired 30), 1R -0.063R drop
+2026-11-12 05:42:49 ET    HWM   open 2R -0.145R, 1R -0.119R drop | breakout 2R +0.095R (fired 30), 1R +0.169R WATCH
+2026-11-12 05:42:50 ET    HCA   open 2R +0.149R, 1R +0.292R KEEP | breakout 2R +0.036R (fired 35), 1R -0.008R drop
+2026-11-12 05:42:51 ET    DIS   open 2R +0.313R, 1R +0.272R KEEP | breakout 2R +0.070R (fired 35), 1R +0.104R WATCH
+2026-11-12 05:42:52 ET    XEL   open 2R -0.005R, 1R -0.009R drop | breakout 2R +0.101R (fired 32), 1R +0.062R WATCH
+2026-11-12 05:42:53 ET    SBUX  open 2R -0.149R, 1R -0.117R drop | breakout 2R +0.095R (fired 35), 1R -0.079R drop
+2026-11-12 05:42:55 ET    CME   open 2R +0.120R, 1R +0.266R KEEP | breakout 2R -0.181R (fired 38), 1R -0.147R drop
+2026-11-12 05:42:56 ET    RIOT  open 2R -0.288R, 1R -0.254R drop | breakout 2R +0.206R (fired 34), 1R +0.241R WATCH
+2026-11-12 05:42:57 ET    KDP   open 2R +0.145R, 1R +0.151R KEEP | breakout 2R +0.216R (fired 35), 1R +0.280R WATCH
+2026-11-12 05:42:58 ET    MDT   open 2R +0.070R, 1R +0.070R KEEP | breakout 2R -0.127R (fired 39), 1R -0.030R drop
+2026-11-12 05:42:59 ET    CMCSA open 2R -0.161R, 1R -0.295R drop | breakout 2R +0.117R (fired 31), 1R +0.148R WATCH
+2026-11-12 05:43:00 ET    NDAQ  open 2R +0.059R, 1R +0.056R KEEP | breakout 2R +0.303R (fired 29), 1R +0.225R WATCH
+2026-11-12 05:43:01 ET    LSCC  open 2R -0.494R, 1R -0.390R drop | breakout 2R -0.234R (fired 32), 1R +0.064R drop
+2026-11-12 05:43:02 ET    TEVA  open 2R -0.015R, 1R +0.069R drop | breakout 2R +0.065R (fired 41), 1R +0.055R WATCH
+2026-11-12 05:43:03 ET    CHTR  open 2R -0.334R, 1R -0.220R drop | breakout 2R -0.126R (fired 34), 1R -0.199R drop
+2026-11-12 05:43:04 ET    MMM   open 2R -0.297R, 1R -0.274R drop | breakout 2R +0.009R (fired 35), 1R +0.009R drop
+2026-11-12 05:43:05 ET    CMG   open 2R -0.057R, 1R -0.107R drop | breakout 2R +0.063R (fired 31), 1R -0.044R WATCH
+2026-11-12 05:43:06 ET    UPS   open 2R -0.041R, 1R -0.064R drop | breakout 2R +0.186R (fired 36), 1R +0.054R WATCH
+2026-11-12 05:43:07 ET    VMC   open 2R +0.048R, 1R +0.009R drop | breakout 2R +0.017R (fired 31), 1R +0.047R drop
+2026-11-12 05:43:08 ET    AJG   open 2R +0.156R, 1R +0.190R KEEP | breakout 2R +0.043R (fired 32), 1R -0.021R drop
+2026-11-12 05:43:09 ET    ZTS   open 2R +0.122R, 1R +0.061R KEEP | breakout 2R +0.493R (fired 32), 1R +0.237R WATCH
+2026-11-12 05:43:09 ET  intraday watchlist: ZTS (+0.49R), AAPL (+0.32R), NDAQ (+0.30R), NEE (+0.23R), PEP (+0.23R), KDP (+0.22R), RIOT (+0.21R), NXPI (+0.20R), GE (+0.20R), TMUS (+0.20R), UPS (+0.19R), CMCSA (+0.12R), XEL (+0.10R), HWM (+0.10R), GILD (+0.09R)
+2026-11-12 05:43:12 ET    SPOT: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:12 ET    AAPL: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:13 ET    HUM: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:14 ET    ABBV: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:19 ET    TMUS: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:20 ET    AJG: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:21 ET    HCA: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:21 ET    KDP: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:24 ET    LIN: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:24 ET    ZTS: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:25 ET    CME: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:28 ET    GILD: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:33 ET    VZ: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:34 ET    MDT: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:35 ET    KO: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:36 ET    NDAQ: 0 shares fit (cash left $19.48)
+2026-11-12 05:43:39 ET  risk PASS [open] DIS x4 limit 120.13 stop 118.93 target 122.53 max loss $4.8 
+2026-11-12 05:43:39 ET    dry run: not placed
+2026-11-12 08:49:21 ET  plan: account PA...47 (paper), cash $1000
+2026-11-12 09:09:05 ET  scan: Daily scan, Thu 2026-11-12 08:49 ET, closes through 2026-11-11 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 1,412 passed the liquidity filter ($5+ and 1,000,000+ shares), 1 had under 30 days; 1,411 scanned. | 453 charts matched a setup: 186 20-day closing-high breakout, 132 bull flag, 91 reclaimed the 20-day average, 36 oversold (RSI under 30), 48 oversold bounce.
+2026-11-12 09:09:05 ET  candidates (40): AAPL, MCD, ANET, RKLB, PEP, KO, TTWO, GE, HD, HUM, NXPI, ABT, ABBV, NEE, TMUS, GILD, LIN, VZ, SPOT, LOW, HWM, HCA, DIS, XEL, SBUX, CME, RIOT, KDP, MDT, CMCSA, NDAQ, LSCC, TEVA, CHTR, MMM, CMG, UPS, VMC, AJG, ZTS
+2026-11-12 09:18:36 ET    AAPL: no bars ([Errno 54] Connection reset by peer)
+2026-11-12 09:18:37 ET    MCD   open 2R -0.023R, 1R -0.084R drop | breakout 2R -0.143R (fired 35), 1R -0.167R drop
+2026-11-12 09:18:38 ET    ANET  open 2R -0.215R, 1R -0.125R drop | breakout 2R -0.209R (fired 29), 1R -0.175R drop
+2026-11-12 09:18:38 ET    RKLB  open 2R -0.072R, 1R -0.186R drop | breakout 2R -0.112R (fired 28), 1R -0.024R drop
+2026-11-12 09:18:39 ET    PEP   open 2R -0.077R, 1R -0.097R drop | breakout 2R +0.225R (fired 36), 1R +0.196R WATCH
+2026-11-12 09:18:40 ET    KO    open 2R +0.064R, 1R +0.004R KEEP | breakout 2R +0.078R (fired 36), 1R -0.023R WATCH
+2026-11-12 09:18:41 ET    TTWO  open 2R -0.214R, 1R -0.113R drop | breakout 2R -0.175R (fired 34), 1R +0.018R drop
+2026-11-12 09:18:41 ET    GE    open 2R -0.048R, 1R -0.070R drop | breakout 2R +0.198R (fired 31), 1R +0.042R WATCH
+2026-11-12 09:18:42 ET    HD    open 2R -0.118R, 1R -0.071R drop | breakout 2R +0.076R (fired 31), 1R +0.123R WATCH
+2026-11-12 09:18:43 ET    HUM   open 2R +0.222R, 1R +0.128R KEEP | breakout 2R -0.240R (fired 33), 1R -0.110R drop
+2026-11-12 09:18:44 ET    NXPI  open 2R +0.014R, 1R -0.181R drop | breakout 2R +0.204R (fired 33), 1R -0.008R WATCH
+2026-11-12 09:18:45 ET    ABT   open 2R -0.024R, 1R -0.029R drop | breakout 2R -0.155R (fired 27), 1R +0.045R drop
+2026-11-12 09:18:45 ET    ABBV  open 2R +0.197R, 1R +0.207R KEEP | breakout 2R -0.046R (fired 31), 1R -0.022R drop
+2026-11-12 09:18:46 ET    NEE   open 2R -0.138R, 1R -0.134R drop | breakout 2R +0.227R (fired 25), 1R +0.110R WATCH
+2026-11-12 09:18:47 ET    TMUS  open 2R +0.193R, 1R +0.207R KEEP | breakout 2R +0.197R (fired 36), 1R +0.099R WATCH
+2026-11-12 09:18:48 ET    GILD  open 2R +0.120R, 1R +0.097R KEEP | breakout 2R +0.094R (fired 30), 1R +0.026R WATCH
+2026-11-12 09:18:49 ET    LIN   open 2R +0.139R, 1R +0.153R KEEP | breakout 2R -0.103R (fired 37), 1R -0.003R drop
+2026-11-12 09:18:50 ET    VZ    open 2R +0.106R, 1R +0.103R KEEP | breakout 2R -0.105R (fired 38), 1R -0.061R drop
+2026-11-12 09:18:51 ET    SPOT  open 2R +0.292R, 1R +0.195R KEEP | breakout 2R +0.054R (fired 34), 1R +0.012R WATCH
+2026-11-12 09:18:52 ET    LOW   open 2R -0.180R, 1R -0.245R drop | breakout 2R -0.128R (fired 30), 1R -0.063R drop
+2026-11-12 09:22:36 ET    HWM: no bars ([Errno 54] Connection reset by peer)
+2026-11-12 09:22:37 ET    HCA   open 2R +0.149R, 1R +0.292R KEEP | breakout 2R +0.036R (fired 35), 1R -0.008R drop
+2026-11-12 09:22:37 ET    DIS   open 2R +0.313R, 1R +0.272R KEEP | breakout 2R +0.070R (fired 35), 1R +0.104R WATCH
+2026-11-12 09:22:38 ET    XEL   open 2R -0.005R, 1R -0.009R drop | breakout 2R +0.101R (fired 32), 1R +0.062R WATCH
+2026-11-12 09:22:39 ET    SBUX  open 2R -0.149R, 1R -0.117R drop | breakout 2R +0.095R (fired 35), 1R -0.079R drop
+2026-11-12 09:22:40 ET    CME   open 2R +0.120R, 1R +0.266R KEEP | breakout 2R -0.181R (fired 38), 1R -0.147R drop
+2026-11-12 09:22:41 ET    RIOT  open 2R -0.288R, 1R -0.254R drop | breakout 2R +0.206R (fired 34), 1R +0.241R WATCH
+2026-11-12 09:22:42 ET    KDP   open 2R +0.145R, 1R +0.151R KEEP | breakout 2R +0.216R (fired 35), 1R +0.280R WATCH
+2026-11-12 09:22:42 ET    MDT   open 2R +0.070R, 1R +0.070R KEEP | breakout 2R -0.127R (fired 39), 1R -0.030R drop
+2026-11-12 09:38:23 ET    CMCSA open 2R -0.198R, 1R -0.317R drop | breakout 2R +0.139R (fired 30), 1R +0.171R WATCH
+2026-11-12 09:38:24 ET    NDAQ  open 2R +0.078R, 1R +0.040R KEEP | breakout 2R +0.243R (fired 28), 1R +0.198R WATCH
+2026-11-12 09:38:25 ET    LSCC  open 2R -0.485R, 1R -0.414R drop | breakout 2R -0.234R (fired 32), 1R +0.064R drop
+2026-11-12 09:38:26 ET    TEVA  open 2R +0.002R, 1R +0.088R drop | breakout 2R +0.071R (fired 40), 1R +0.061R WATCH
+2026-11-12 09:38:27 ET    CHTR  open 2R -0.374R, 1R -0.241R drop | breakout 2R -0.114R (fired 33), 1R -0.235R drop
+2026-11-12 09:44:14 ET    MMM   open 2R -0.284R, 1R -0.261R drop | breakout 2R +0.039R (fired 34), 1R -0.020R drop
+2026-11-12 09:44:15 ET    CMG   open 2R -0.092R, 1R -0.126R drop | breakout 2R +0.066R (fired 30), 1R -0.078R drop
+2026-11-12 09:44:16 ET    UPS   open 2R -0.046R, 1R -0.083R drop | breakout 2R +0.220R (fired 35), 1R +0.084R WATCH
+2026-11-12 09:44:17 ET    VMC   open 2R +0.036R, 1R -0.008R drop | breakout 2R +0.019R (fired 30), 1R +0.015R drop
+2026-11-12 09:44:17 ET    AJG   open 2R +0.124R, 1R +0.176R KEEP | breakout 2R -0.020R (fired 31), 1R -0.054R drop
+2026-11-12 09:44:18 ET    ZTS   open 2R +0.122R, 1R +0.061R KEEP | breakout 2R +0.493R (fired 32), 1R +0.237R WATCH
+2026-11-12 09:44:19 ET  intraday watchlist: ZTS (+0.49R), NDAQ (+0.24R), NEE (+0.23R), PEP (+0.23R), UPS (+0.22R), KDP (+0.22R), RIOT (+0.21R), NXPI (+0.20R), GE (+0.20R), TMUS (+0.20R), CMCSA (+0.14R), XEL (+0.10R), GILD (+0.09R), KO (+0.08R), HD (+0.08R)
+2026-11-12 09:44:20 ET    SPOT: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:20 ET    HUM: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:55 ET    ABBV: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:55 ET    TMUS: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:55 ET    HCA: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:56 ET    KDP: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:56 ET    LIN: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:57 ET    AJG: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:57 ET    ZTS: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:58 ET    CME: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:58 ET    GILD: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:58 ET    VZ: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:59 ET    NDAQ: 0 shares fit (cash left $19.48)
+2026-11-12 09:44:59 ET    MDT: 0 shares fit (cash left $19.48)
+2026-11-12 09:45:00 ET    KO: 0 shares fit (cash left $19.48)
+2026-11-12 09:50:49 ET  ERROR URLError: <urlopen error [Errno 54] Connection reset by peer>
+2026-11-12 12:31:11 ET  plan: account PA...47 (paper), cash $1000
+2026-11-12 12:35:58 ET  scan: Daily scan, Thu 2026-11-12 12:31 ET, closes through 2026-11-11 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 616 passed the liquidity filter ($5+ and 1,000,000+ shares); 616 scanned. | 175 charts matched a setup: 67 20-day closing-high breakout, 46 bull flag, 44 reclaimed the 20-day average, 13 oversold (RSI under 30), 21 oversold bounce.
+2026-11-12 12:35:58 ET  candidates (40): AAPL, ANET, HD, KDP, KO, MCD, RKLB, PEP, GE, ABBV, TTWO, XEL, NEE, LOW, ABT, NXPI, GILD, VZ, DIS, TIGO, RIOT, MDT, TMUS, MMM, MANE, CCL, INSM, CMG, EPR, CMCSA, TEVA, SBUX, O, LSCC, Q, UPS, QXO, CRH, NCLH, GM
+2026-11-12 12:36:02 ET    AAPL  open 2R +0.196R, 1R +0.122R KEEP | breakout 2R +0.259R (fired 29), 1R +0.133R WATCH
+2026-11-12 12:36:05 ET    ANET  open 2R -0.201R, 1R -0.110R drop | breakout 2R -0.209R (fired 29), 1R -0.175R drop
+2026-11-12 12:36:06 ET    HD    open 2R -0.155R, 1R -0.089R drop | breakout 2R +0.112R (fired 30), 1R +0.160R WATCH
+2026-11-12 12:36:08 ET    KDP   open 2R +0.164R, 1R +0.137R KEEP | breakout 2R +0.216R (fired 35), 1R +0.280R WATCH
+2026-11-12 12:36:10 ET    KO    open 2R +0.030R, 1R -0.013R drop | breakout 2R +0.067R (fired 35), 1R -0.037R WATCH
+2026-11-12 12:36:12 ET    MCD   open 2R -0.058R, 1R -0.103R drop | breakout 2R -0.118R (fired 34), 1R -0.143R drop
+2026-11-12 12:36:12 ET    RKLB  open 2R -0.056R, 1R -0.172R drop | breakout 2R -0.112R (fired 28), 1R -0.024R drop
+2026-11-12 12:36:15 ET    PEP   open 2R -0.112R, 1R -0.116R drop | breakout 2R +0.260R (fired 35), 1R +0.230R WATCH
+2026-11-12 12:36:16 ET    GE    open 2R -0.032R, 1R -0.054R drop | breakout 2R +0.198R (fired 31), 1R +0.042R WATCH
+2026-11-12 12:36:16 ET    ABBV  open 2R +0.166R, 1R +0.193R KEEP | breakout 2R -0.014R (fired 30), 1R -0.056R drop
+2026-11-12 12:36:18 ET    TTWO  open 2R -0.200R, 1R -0.132R drop | breakout 2R -0.150R (fired 33), 1R +0.049R drop
+2026-11-12 12:36:19 ET    XEL   open 2R +0.012R, 1R +0.008R drop | breakout 2R +0.101R (fired 32), 1R +0.062R WATCH
+2026-11-12 12:36:20 ET    NEE   open 2R -0.123R, 1R -0.119R drop | breakout 2R +0.227R (fired 25), 1R +0.110R WATCH
+2026-11-12 12:36:21 ET    LOW   open 2R -0.166R, 1R -0.232R drop | breakout 2R -0.119R (fired 29), 1R -0.052R drop
+2026-11-12 12:36:22 ET    ABT   open 2R -0.059R, 1R -0.047R drop | breakout 2R -0.153R (fired 26), 1R +0.008R drop
+2026-11-12 12:36:23 ET    NXPI  open 2R +0.032R, 1R -0.166R drop | breakout 2R +0.204R (fired 33), 1R -0.008R WATCH
+2026-11-12 12:36:25 ET    GILD  open 2R +0.087R, 1R +0.082R KEEP | breakout 2R +0.099R (fired 29), 1R +0.029R WATCH
+2026-11-12 12:36:26 ET    VZ    open 2R +0.073R, 1R +0.087R KEEP | breakout 2R -0.105R (fired 37), 1R -0.060R drop
+2026-11-12 12:36:27 ET    DIS   open 2R +0.284R, 1R +0.260R KEEP | breakout 2R +0.013R (fired 34), 1R +0.077R drop
+2026-11-12 12:36:30 ET    TIGO  open 2R -0.011R, 1R -0.051R drop | breakout 2R -0.178R (fired 30), 1R -0.123R drop
+2026-11-12 12:36:31 ET    RIOT  open 2R -0.276R, 1R -0.241R drop | breakout 2R +0.198R (fired 33), 1R +0.217R WATCH
+2026-11-12 12:36:31 ET    MDT   open 2R +0.037R, 1R +0.054R drop | breakout 2R -0.137R (fired 38), 1R -0.037R drop
+2026-11-12 12:36:32 ET    TMUS  open 2R +0.162R, 1R +0.193R KEEP | breakout 2R +0.231R (fired 35), 1R +0.073R WATCH
+2026-11-12 12:36:35 ET    MMM   open 2R -0.284R, 1R -0.261R drop | breakout 2R +0.039R (fired 34), 1R -0.020R drop
+2026-11-12 12:36:36 ET    MANE  open 2R +0.176R, 1R -0.020R KEEP | breakout 2R +0.044R (fired 28), 1R +0.153R drop
+2026-11-12 12:36:36 ET    CCL   open 2R +0.007R, 1R -0.010R drop | breakout 2R -0.049R (fired 33), 1R -0.158R drop
+2026-11-12 12:36:37 ET    INSM  open 2R -0.271R, 1R -0.207R drop | breakout 2R -0.012R (fired 31), 1R -0.107R drop
+2026-11-12 12:36:38 ET    CMG   open 2R -0.092R, 1R -0.126R drop | breakout 2R +0.066R (fired 30), 1R -0.078R drop
+2026-11-12 12:36:40 ET    EPR   open 2R -0.204R, 1R -0.137R drop | breakout 2R -0.166R (fired 35), 1R -0.229R drop
+2026-11-12 12:36:41 ET    CMCSA open 2R -0.198R, 1R -0.317R drop | breakout 2R +0.139R (fired 30), 1R +0.171R WATCH
+2026-11-12 12:36:42 ET    TEVA  open 2R +0.002R, 1R +0.088R drop | breakout 2R +0.071R (fired 40), 1R +0.061R WATCH
+2026-11-12 12:36:44 ET    SBUX  open 2R -0.134R, 1R -0.136R drop | breakout 2R +0.127R (fired 34), 1R -0.052R drop
+2026-11-12 12:36:47 ET    O     open 2R -0.141R, 1R -0.159R drop | breakout 2R +0.080R (fired 26), 1R -0.115R drop
+2026-11-12 12:36:49 ET    LSCC  open 2R -0.485R, 1R -0.414R drop | breakout 2R -0.234R (fired 32), 1R +0.064R drop
+2026-11-12 12:36:50 ET    Q     open 2R -0.382R, 1R -0.345R drop | breakout 2R -0.087R (fired 35), 1R +0.050R drop
+2026-11-12 12:36:50 ET    UPS   open 2R -0.046R, 1R -0.083R drop | breakout 2R +0.220R (fired 35), 1R +0.084R WATCH
+2026-11-12 12:36:51 ET    QXO   open 2R -0.343R, 1R -0.379R drop | breakout 2R +0.048R (fired 27), 1R +0.087R drop
+2026-11-12 12:36:52 ET    CRH   open 2R -0.062R, 1R -0.049R drop | breakout 2R -0.036R (fired 26), 1R +0.008R drop
+2026-11-12 12:36:53 ET    NCLH  open 2R -0.239R, 1R -0.169R drop | breakout 2R -0.250R (fired 33), 1R -0.071R drop
+2026-11-12 12:36:56 ET    GM    open 2R +0.181R, 1R +0.108R KEEP | breakout 2R +0.381R (fired 31), 1R +0.262R WATCH
+2026-11-12 12:36:56 ET  intraday watchlist: GM (+0.38R), PEP (+0.26R), AAPL (+0.26R), TMUS (+0.23R), NEE (+0.23R), UPS (+0.22R), KDP (+0.22R), NXPI (+0.20R), RIOT (+0.20R), GE (+0.20R), CMCSA (+0.14R), HD (+0.11R), XEL (+0.10R), GILD (+0.10R), TEVA (+0.07R)
+2026-11-12 12:36:56 ET  plan: no open trade today
+2026-11-12 12:37:02 ET  live RIOT: triggered at 9:50 AM, 167 min ago: too late, not taken
+2026-11-12 12:37:03 ET  live XEL: triggered at 10:30 AM, 127 min ago: too late, not taken
+2026-11-12 12:37:04 ET  live TEVA: triggered at 10:20 AM, 137 min ago: too late, not taken

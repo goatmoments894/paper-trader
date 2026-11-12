@@ -1,0 +1,28 @@
+{
+  "created_by": "paperbot",
+  "paper": true,
+  "orders": [
+    {
+      "symbol": "DIS",
+      "side": "buy",
+      "qty": "4",
+      "type": "limit",
+      "time_in_force": "day",
+      "limit_price": "120.13",
+      "order_class": "bracket",
+      "take_profit_limit_price": "122.53",
+      "stop_loss_stop_price": "118.93",
+      "why": "buy at the open, breakout_20d, backtest 2R avg +0.31R over 59 sessions; ref 119.65 (2026-11-12T14:44:15)",
+      "plan": {
+        "entry": 120.13,
+        "stop": 118.93,
+        "target": 122.53,
+        "risk_per_share": 1.2,
+        "max_loss": 4.8,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      }
+    }
+  ]
+}

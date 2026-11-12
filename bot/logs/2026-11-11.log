@@ -1,0 +1,36 @@
+2026-11-11 19:02:57 ET  plan: account PA...47 (paper), cash $1000
+2026-11-11 19:08:06 ET  scan: Daily scan, Wed 2026-11-11 19:02 ET, closes through 2026-11-11 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 1,412 passed the liquidity filter ($5+ and 1,000,000+ shares), 1 had under 30 days; 1,411 scanned. | 453 charts matched a setup: 186 20-day closing-high breakout, 132 bull flag, 91 reclaimed the 20-day average, 36 oversold (RSI under 30), 48 oversold bounce.
+2026-11-11 19:08:06 ET  candidates (15): AAPL, MCD, ANET, RKLB, PEP, KO, TTWO, GE, HD, HUM, NXPI, ABT, ABBV, NEE, TMUS
+2026-11-11 19:08:10 ET    AAPL  2R: 58 sessions, 10 target, 19 stop, avg +0.200R | 1R avg +0.122R  KEEP
+2026-11-11 19:08:13 ET    MCD   2R: 58 sessions, 6 target, 16 stop, avg -0.006R | 1R avg -0.069R  drop
+2026-11-11 19:08:14 ET    ANET  2R: 58 sessions, 12 target, 39 stop, avg -0.253R | 1R avg -0.144R  drop
+2026-11-11 19:08:15 ET    RKLB  2R: 58 sessions, 18 target, 39 stop, avg -0.056R | 1R avg -0.172R  drop
+2026-11-11 19:08:19 ET    PEP   2R: 58 sessions, 4 target, 25 stop, avg -0.104R | 1R avg -0.116R  drop
+2026-11-11 19:08:22 ET    KO    2R: 58 sessions, 5 target, 15 stop, avg +0.041R | 1R avg -0.013R  drop
+2026-11-11 19:08:24 ET    TTWO  2R: 58 sessions, 11 target, 35 stop, avg -0.200R | 1R avg -0.098R  drop
+2026-11-11 19:08:25 ET    GE    2R: 58 sessions, 9 target, 30 stop, avg -0.068R | 1R avg -0.088R  drop
+2026-11-11 19:08:29 ET    HD    2R: 58 sessions, 6 target, 28 stop, avg -0.103R | 1R avg -0.055R  drop
+2026-11-11 19:08:29 ET    HUM   2R: 58 sessions, 21 target, 30 stop, avg +0.212R | 1R avg +0.113R  KEEP
+2026-11-11 19:08:30 ET    NXPI  2R: 58 sessions, 19 target, 35 stop, avg +0.032R | 1R avg -0.166R  drop
+2026-11-11 19:08:33 ET    ABT   2R: 58 sessions, 10 target, 28 stop, avg -0.016R | 1R avg -0.022R  drop
+2026-11-11 19:08:34 ET    ABBV  2R: 58 sessions, 10 target, 22 stop, avg +0.179R | 1R avg +0.193R  KEEP
+2026-11-11 19:08:35 ET    NEE   2R: 58 sessions, 2 target, 21 stop, avg -0.144R | 1R avg -0.140R  drop
+2026-11-11 19:08:38 ET    TMUS  2R: 58 sessions, 15 target, 26 stop, avg +0.164R | 1R avg +0.193R  KEEP
+2026-11-11 19:08:40 ET  risk PASS HUM buy x1 limit 448.23 stop 443.75 target 457.19 max loss $4.48 
+2026-11-11 19:08:40 ET    dry run: not placed
+2026-11-11 19:08:40 ET  risk PASS AAPL buy x1 limit 357.20 stop 353.63 target 364.34 max loss $3.57 
+2026-11-11 19:08:40 ET    dry run: not placed
+2026-11-11 19:09:19 ET  report: wrote /Users/pablozurdoalcantara/DayTrading/reports/2026-11-11.md (P&L $0.00)
+2026-11-12 04:32:34 ET  live AAPL: TRIGGERED 9:50 AM at 353.68 (range 349.33-353.43), live 353.68 (trigger close)
+2026-11-12 04:32:36 ET  live GILD: TRIGGERED 9:50 AM at 170.17 (range 168.37-170.14), live 170.17 (trigger close)
+2026-11-12 04:32:36 ET  live KO: triggered but 0 shares fit (cash $71.60, risk 0.68 a share)
+2026-11-12 04:32:38 ET  risk PASS [orb] AAPL x2 limit 354.03 stop 351.38 target 359.33 max loss $5.3 
+2026-11-12 04:32:38 ET    dry run: not placed
+2026-11-12 04:32:38 ET  risk PASS [orb] GILD x1 limit 170.34 stop 169.25 target 172.52 max loss $1.09 
+2026-11-12 04:32:38 ET    dry run: not placed
+2026-11-12 04:32:40 ET  live GE: TRIGGERED 9:55 AM at 340.18 (range 336.78-339.99), live 340.18 (trigger close)
+2026-11-12 04:32:41 ET  live KO: TRIGGERED 9:50 AM at 96.71 (range 95.65-96.61), live 96.71 (trigger close)
+2026-11-12 04:32:47 ET  risk PASS [orb] GE x2 limit 340.52 stop 338.38 target 344.80 max loss $4.28 
+2026-11-12 04:32:47 ET    dry run: not placed
+2026-11-12 04:32:47 ET  risk PASS [orb] KO x2 limit 96.81 stop 96.13 target 98.17 max loss $1.36 
+2026-11-12 04:32:47 ET    dry run: not placed

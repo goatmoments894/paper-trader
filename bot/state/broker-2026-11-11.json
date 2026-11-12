@@ -1,0 +1,44 @@
+{
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-11",
+      "symbol": "AAPL",
+      "side": "buy",
+      "kind": "entry",
+      "qty": "2",
+      "max_loss": 5.3,
+      "plan": {
+        "entry": 354.03,
+        "stop": 351.38,
+        "target": 359.33,
+        "risk_per_share": 2.65,
+        "max_loss": 5.3,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.30R (fired 29 of 58 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-11",
+      "symbol": "GILD",
+      "side": "buy",
+      "kind": "entry",
+      "qty": "1",
+      "max_loss": 1.09,
+      "plan": {
+        "entry": 170.34,
+        "stop": 169.25,
+        "target": 172.52,
+        "risk_per_share": 1.09,
+        "max_loss": 1.09,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.13R (fired 29 of 58 sessions)"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+tm/
+__pycache__/
+*.tmp
+.DS_Store
+bot/logs/launchd.*

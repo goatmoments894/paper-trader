@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-12",
+  "orders": [],
+  "is_trading_day": true,
+  "trading_day_checked": true,
+  "orb_watch": [
+    {
+      "symbol": "GM",
+      "avg_r": 0.381,
+      "fired": 31,
+      "sessions": 58,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "PEP",
+      "avg_r": 0.26,
+      "fired": 35,
+      "sessions": 58,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "avg_r": 0.259,
+      "fired": 29,
+      "sessions": 58,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "TMUS",
+      "avg_r": 0.231,
+      "fired": 35,
+      "sessions": 58,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "NEE",
+      "avg_r": 0.227,
+      "fired": 25,
+      "sessions": 58,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "UPS",
+      "avg_r": 0.22,
+      "fired": 35,
+      "sessions": 58,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "KDP",
+      "avg_r": 0.216,
+      "fired": 35,
+      "sessions": 58,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "NXPI",
+      "avg_r": 0.204,
+      "fired": 33,
+      "sessions": 58,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "GE",
+      "avg_r": 0.198,
+      "fired": 31,
+      "sessions": 58,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "CMCSA",
+      "avg_r": 0.139,
+      "fired": 30,
+      "sessions": 58,
+      "setups": [
+        "breakout_20d",
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "HD",
+      "avg_r": 0.112,
+      "fired": 30,
+      "sessions": 58,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "GILD",
+      "avg_r": 0.099,
+      "fired": 29,
+      "sessions": 58,
+      "setups": [
+        "bull_flag"
+      ]
+    }
+  ],
+  "planned": true,
+  "cancelled_unfilled": true,
+  "orb_skipped": [
+    "RIOT",
+    "XEL",
+    "TEVA"
+  ]
+}

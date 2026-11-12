@@ -1,0 +1,49 @@
+name: Paper bot
+# Runs the paper-trading bot on GitHub's servers every US trading day.
+# Two shifts (GitHub jobs stop after 6 h). Each shift has a summer and a winter cron;
+# the one outside its New York time window exits at once.
+on:
+  schedule:
+    - cron: "35 12,13 * * 1-5"   # morning shift, 08:35 New York
+    - cron: "10 17,18 * * 1-5"   # afternoon shift, ~13:15 New York until 16:15
+  workflow_dispatch:
+    inputs:
+      cmd:
+        description: "status | plan --dry-run | tick | report | loop ..."
+        default: "status"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paperbot
+  cancel-in-progress: false
+
+jobs:
+  bot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+      ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+      DT_GIT: "1"
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "paper-bot"
+          git config user.email "paper-bot@users.noreply.github.com"
+      - name: Morning shift
+        if: github.event_name == 'schedule' && github.event.schedule == '35 12,13 * * 1-5'
+        run: python3 bot/paperbot.py loop --window 08:20-09:30 --until 13:15
+      - name: Afternoon shift
+        if: github.event_name == 'schedule' && github.event.schedule == '10 17,18 * * 1-5'
+        run: python3 bot/paperbot.py loop --window 12:55-14:30 --until 16:15
+      - name: Manual command
+        if: github.event_name == 'workflow_dispatch'
+        run: python3 bot/paperbot.py ${{ inputs.cmd }}
+      - name: Save files
+        if: always()
+        run: |
+          git add -A
+          git diff --cached --quiet || { git commit -qm "bot files $(date -u +%F_%H%M)"; git pull -q --rebase && git push -q; }
