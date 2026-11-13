@@ -56,3 +56,4 @@
 2026-11-13 10:15:22 ET  live FISV: TRIGGERED 10:05 AM at 62.94 (range 61.55-62.90), live 62.59 (2026-11-13T15:14:47)
 2026-11-13 10:15:23 ET  risk PASS [orb] FISV x8 limit 62.65 stop 62.22 target 63.51 max loss $3.44 
 2026-11-13 10:15:23 ET    PLACED [orb] FISV id 41af6d16-9434-45dc-adfb-6513e2a8599e status pending_new
+2026-11-13 10:35:22 ET  live JNJ: triggered but 0 shares fit (cash $4.80, risk 2.55 a share)
