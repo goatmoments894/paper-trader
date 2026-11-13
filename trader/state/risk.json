@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-13",
+  "now_new_york": "2026-11-13 09:30",
+  "paper": true,
+  "results": [
+    {
+      "index": 1,
+      "symbol": "KR",
+      "side": "buy",
+      "kind": "entry",
+      "amount": "7 shares",
+      "value_usd": 490.63,
+      "entry_ref": 70.09,
+      "entry_ref_from": "limit",
+      "stop": 69.39,
+      "target": 71.49,
+      "risk_per_share": 0.7,
+      "max_loss": 4.9,
+      "reward_risk": 2.0,
+      "fingerprint": "649d8b7b8bd976f3",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": [],
+      "info": [
+        "entry 70.09 (the limit price), stop 69.39, target 71.49: risk 0.70 a share",
+        "max loss $4.90 (limit $30), reward:risk 2.00 (min 1)",
+        "today before this: 0 of 8 trades, $0 of $100 daily loss"
+      ]
+    }
+  ],
+  "pass": 1,
+  "block": 0,
+  "warnings": [],
+  "cash_after": 509.37,
+  "today": {
+    "orders_placed": 0,
+    "entries_placed": 0,
+    "loss_at_risk": 0.0,
+    "day_trades_5d": null
+  },
+  "checked_at": "2026-11-13T13:47:32Z",
+  "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
+}

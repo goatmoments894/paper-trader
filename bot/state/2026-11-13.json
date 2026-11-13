@@ -1,6 +1,168 @@
 {
   "date": "2026-11-13",
-  "orders": [],
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-13",
+      "symbol": "KR",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "7",
+      "max_loss": 4.9,
+      "id": "c1fcd8d1-5e8d-42ce-b7b6-4041b4be7777",
+      "client_order_id": "pb-open-2026-11-13-KR-1794577652",
+      "plan": {
+        "entry": 70.09,
+        "stop": 69.39,
+        "target": 71.49,
+        "risk_per_share": 0.7,
+        "max_loss": 4.9,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, breakout_20d, backtest 2R avg +0.26R over 60 sessions; ref 69.815 (2026-11-12T20:59:50)"
+    }
+  ],
   "is_trading_day": true,
-  "trading_day_checked": true
+  "trading_day_checked": true,
+  "orb_watch": [
+    {
+      "symbol": "GEN",
+      "avg_r": 0.316,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "SWKS",
+      "avg_r": 0.287,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "PGR",
+      "avg_r": 0.266,
+      "fired": 27,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "INGM",
+      "avg_r": 0.241,
+      "fired": 32,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "LUNR",
+      "avg_r": 0.187,
+      "fired": 24,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "NI",
+      "avg_r": 0.186,
+      "fired": 33,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "FISV",
+      "avg_r": 0.174,
+      "fired": 31,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "IR",
+      "avg_r": 0.167,
+      "fired": 29,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "TECH",
+      "avg_r": 0.161,
+      "fired": 31,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "JNJ",
+      "avg_r": 0.158,
+      "fired": 32,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "LQDA",
+      "avg_r": 0.151,
+      "fired": 33,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "KR",
+      "avg_r": 0.12,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "CPRT",
+      "avg_r": 0.109,
+      "fired": 31,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "U",
+      "avg_r": 0.088,
+      "fired": 32,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "avg_r": 0.072,
+      "fired": 40,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    }
+  ],
+  "planned": true
 }

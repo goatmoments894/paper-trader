@@ -1,0 +1,50 @@
+2026-11-13 08:45:20 ET  plan: account PA...47 (paper), cash $1000
+2026-11-13 08:47:10 ET  scan: Daily scan, Fri 2026-11-13 08:45 ET, closes through 2026-11-12 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 1,391 passed the liquidity filter ($5+ and 1,000,000+ shares), 1 had under 30 days; 1,390 scanned. | 204 charts matched a setup: 70 20-day closing-high breakout, 73 bull flag, 20 reclaimed the 20-day average, 46 oversold (RSI under 30), 9 oversold bounce.
+2026-11-13 08:47:10 ET  candidates (40): AMD, AVGO, JNJ, ANET, XEL, APP, MCD, CEG, LOW, FISV, PGR, U, SWKS, WM, TEVA, ATI, IR, CSX, LUNR, CRH, RSG, PSA, ASND, NCLH, BNY, FAST, CCI, KR, CPRT, FROG, NI, TPR, GEHC, GEN, TRMK, CP, CF, INGM, LQDA, TECH
+2026-11-13 08:47:11 ET    AMD   open 2R -0.200R, 1R -0.233R drop | breakout 2R +0.072R (fired 40), 1R -0.040R WATCH
+2026-11-13 08:47:11 ET    AVGO  open 2R -0.060R, 1R -0.120R drop | breakout 2R -0.071R (fired 31), 1R +0.025R drop
+2026-11-13 08:47:11 ET    JNJ   open 2R +0.004R, 1R -0.077R drop | breakout 2R +0.158R (fired 32), 1R +0.014R WATCH
+2026-11-13 08:47:12 ET    ANET  open 2R -0.229R, 1R -0.140R drop | breakout 2R -0.165R (fired 30), 1R -0.136R drop
+2026-11-13 08:47:12 ET    XEL   open 2R -0.007R, 1R -0.007R drop | breakout 2R +0.068R (fired 33), 1R +0.030R WATCH
+2026-11-13 08:47:13 ET    APP   open 2R +0.100R, 1R -0.067R drop | breakout 2R +0.032R (fired 35), 1R -0.046R drop
+2026-11-13 08:47:13 ET    MCD   open 2R -0.089R, 1R -0.100R drop | breakout 2R -0.143R (fired 35), 1R -0.167R drop
+2026-11-13 08:47:14 ET    CEG   open 2R -0.173R, 1R -0.133R drop | breakout 2R -0.187R (fired 34), 1R -0.161R drop
+2026-11-13 08:47:14 ET    LOW   open 2R -0.204R, 1R -0.278R drop | breakout 2R -0.119R (fired 29), 1R -0.052R drop
+2026-11-13 08:47:15 ET    FISV  open 2R +0.046R, 1R +0.085R drop | breakout 2R +0.174R (fired 31), 1R +0.082R WATCH
+2026-11-13 08:47:15 ET    PGR   open 2R -0.034R, 1R +0.103R drop | breakout 2R +0.266R (fired 27), 1R +0.134R WATCH
+2026-11-13 08:47:15 ET    U     open 2R -0.107R, 1R -0.133R drop | breakout 2R +0.088R (fired 32), 1R +0.146R WATCH
+2026-11-13 08:47:16 ET    SWKS  open 2R +0.244R, 1R -0.067R drop | breakout 2R +0.287R (fired 34), 1R +0.133R WATCH
+2026-11-13 08:47:16 ET    WM    open 2R +0.048R, 1R +0.025R drop | breakout 2R -0.298R (fired 37), 1R -0.119R drop
+2026-11-13 08:47:17 ET    TEVA  open 2R +0.020R, 1R +0.118R drop | breakout 2R +0.064R (fired 42), 1R +0.106R WATCH
+2026-11-13 08:47:18 ET    ATI   open 2R -0.023R, 1R -0.133R drop | breakout 2R +0.051R (fired 33), 1R -0.042R WATCH
+2026-11-13 08:47:18 ET    IR    open 2R -0.164R, 1R -0.281R drop | breakout 2R +0.167R (fired 29), 1R +0.118R WATCH
+2026-11-13 08:47:18 ET    CSX   open 2R -0.010R, 1R -0.023R drop | breakout 2R -0.192R (fired 35), 1R -0.088R drop
+2026-11-13 08:47:19 ET    LUNR  open 2R -0.050R, 1R -0.200R drop | breakout 2R +0.187R (fired 24), 1R +0.299R WATCH
+2026-11-13 08:47:19 ET    CRH   open 2R -0.093R, 1R -0.014R drop | breakout 2R -0.036R (fired 26), 1R +0.008R drop
+2026-11-13 08:47:20 ET    RSG   open 2R -0.065R, 1R +0.001R drop | breakout 2R -0.088R (fired 35), 1R -0.089R drop
+2026-11-13 08:47:20 ET    PSA   open 2R -0.113R, 1R -0.093R drop | breakout 2R -0.244R (fired 36), 1R -0.311R drop
+2026-11-13 08:47:21 ET    ASND  open 2R +0.014R, 1R +0.166R drop | breakout 2R +0.023R (fired 26), 1R -0.028R drop
+2026-11-13 08:47:21 ET    NCLH  open 2R -0.281R, 1R -0.196R drop | breakout 2R -0.272R (fired 34), 1R -0.098R drop
+2026-11-13 08:47:22 ET    BNY   open 2R -0.174R, 1R -0.073R drop | breakout 2R -0.363R (fired 31), 1R -0.210R drop
+2026-11-13 08:47:22 ET    FAST  open 2R -0.013R, 1R +0.019R drop | breakout 2R -0.091R (fired 36), 1R -0.003R drop
+2026-11-13 08:47:22 ET    CCI   open 2R -0.113R, 1R -0.178R drop | breakout 2R -0.231R (fired 32), 1R -0.067R drop
+2026-11-13 08:47:23 ET    KR    open 2R +0.256R, 1R +0.159R KEEP | breakout 2R +0.120R (fired 34), 1R +0.071R WATCH
+2026-11-13 08:47:23 ET    CPRT  open 2R -0.161R, 1R -0.139R drop | breakout 2R +0.109R (fired 31), 1R +0.053R WATCH
+2026-11-13 08:47:24 ET    FROG  open 2R +0.100R, 1R +0.000R KEEP | breakout 2R +0.054R (fired 37), 1R +0.082R WATCH
+2026-11-13 08:47:24 ET    NI    open 2R -0.101R, 1R -0.093R drop | breakout 2R +0.186R (fired 33), 1R +0.282R WATCH
+2026-11-13 08:47:25 ET    TPR   open 2R -0.200R, 1R -0.227R drop | breakout 2R -0.349R (fired 26), 1R -0.349R drop
+2026-11-13 08:47:25 ET    GEHC  open 2R -0.099R, 1R -0.077R drop | breakout 2R -0.046R (fired 34), 1R -0.035R drop
+2026-11-13 08:47:26 ET    GEN   open 2R +0.188R, 1R +0.129R KEEP | breakout 2R +0.316R (fired 34), 1R +0.182R WATCH
+2026-11-13 08:47:26 ET    TRMK  open 2R -0.622R, 1R -0.515R drop | breakout 2R -0.491R (fired 5), 1R -0.371R drop
+2026-11-13 08:47:26 ET    CP    open 2R +0.076R, 1R +0.057R KEEP | breakout 2R +0.005R (fired 34), 1R +0.061R drop
+2026-11-13 08:47:27 ET    CF    open 2R +0.082R, 1R +0.178R KEEP | breakout 2R -0.145R (fired 31), 1R +0.000R drop
+2026-11-13 08:47:27 ET    INGM  open 2R -0.143R, 1R -0.216R drop | breakout 2R +0.241R (fired 32), 1R +0.370R WATCH
+2026-11-13 08:47:28 ET    LQDA  open 2R +0.017R, 1R -0.085R drop | breakout 2R +0.151R (fired 33), 1R +0.256R WATCH
+2026-11-13 08:47:28 ET    TECH  open 2R +0.014R, 1R +0.014R drop | breakout 2R +0.161R (fired 31), 1R +0.060R WATCH
+2026-11-13 08:47:29 ET  intraday watchlist: GEN (+0.32R), SWKS (+0.29R), PGR (+0.27R), INGM (+0.24R), LUNR (+0.19R), NI (+0.19R), FISV (+0.17R), IR (+0.17R), TECH (+0.16R), JNJ (+0.16R), LQDA (+0.15R), KR (+0.12R), CPRT (+0.11R), U (+0.09R), AMD (+0.07R)
+2026-11-13 08:47:30 ET    GEN: 0 shares fit (cash left $9.37)
+2026-11-13 08:47:30 ET    FROG: 0 shares fit (cash left $9.37)
+2026-11-13 08:47:30 ET    CF: 0 shares fit (cash left $9.37)
+2026-11-13 08:47:31 ET    CP: 0 shares fit (cash left $9.37)
+2026-11-13 08:47:32 ET  risk PASS [open] KR x7 limit 70.09 stop 69.39 target 71.49 max loss $4.9 
+2026-11-13 08:47:32 ET    PLACED [open] KR id c1fcd8d1-5e8d-42ce-b7b6-4041b4be7777 status pending_new
