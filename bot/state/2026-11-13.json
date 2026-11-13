@@ -153,15 +153,6 @@
       ]
     },
     {
-      "symbol": "SWKS",
-      "avg_r": 0.287,
-      "fired": 34,
-      "sessions": 60,
-      "setups": [
-        "breakout_20d"
-      ]
-    },
-    {
       "symbol": "PGR",
       "avg_r": 0.266,
       "fired": 27,
@@ -273,6 +264,7 @@
   "planned": true,
   "cancelled_unfilled": true,
   "orb_skipped": [
-    "JNJ"
+    "JNJ",
+    "SWKS"
   ]
 }
