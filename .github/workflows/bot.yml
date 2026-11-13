@@ -14,6 +14,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: paperbot
@@ -42,6 +43,16 @@ jobs:
       - name: Manual command
         if: github.event_name == 'workflow_dispatch'
         run: python3 bot/paperbot.py ${{ inputs.cmd }}
+      - name: Hand over to the next run
+        # GitHub's timers can start late or not at all; a loop that stopped before the close starts the next one.
+        if: always() && (github.event_name == 'schedule' || startsWith(inputs.cmd, 'loop'))
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          t=$(TZ=America/New_York date +%H%M); d=$(TZ=America/New_York date +%u)
+          if [ "$d" -le 5 ] && [ "$t" -ge 0800 ] && [ "$t" -lt 1600 ]; then
+            gh workflow run bot.yml -R "$GITHUB_REPOSITORY" -f cmd="loop --until 16:15" && echo "next run started"
+          fi
       - name: Save files
         if: always()
         run: |
