@@ -67,3 +67,6 @@
 2026-11-13 12:45:21 ET  live NI: TRIGGERED 12:45 PM at 46.15 (range 45.86-46.11), live 46.16 (2026-11-13T17:45:03)
 2026-11-13 12:45:22 ET  risk PASS [orb] NI x11 limit 46.20 stop 45.98 target 46.64 max loss $2.42 
 2026-11-13 12:45:23 ET    PLACED [orb] NI id 3f04a078-2bdb-47e1-8f70-b32c72ecdbf2 status pending_new
+2026-11-13 13:50:22 ET  live LQDA: TRIGGERED 1:45 PM at 58.69 (range 57.00-58.63), live 58.45 (2026-11-13T18:50:21)
+2026-11-13 13:50:23 ET  risk PASS [orb] LQDA x8 limit 58.51 stop 57.81 target 59.91 max loss $5.6 
+2026-11-13 13:50:23 ET    PLACED [orb] LQDA id d776f5f7-ce6e-4cee-8e8a-38c4fac4d891 status pending_new

@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "NI",
+      "symbol": "LQDA",
       "side": "buy",
-      "qty": "11",
+      "qty": "8",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "46.20",
+      "limit_price": "58.51",
       "order_class": "bracket",
-      "take_profit_limit_price": "46.64",
-      "stop_loss_stop_price": "45.98",
-      "why": "opening-range breakout at 12:45 PM, backtest 2R avg +0.19R (fired 33 of 60 sessions)",
+      "take_profit_limit_price": "59.91",
+      "stop_loss_stop_price": "57.81",
+      "why": "opening-range breakout at 1:45 PM, backtest 2R avg +0.15R (fired 33 of 59 sessions)",
       "plan": {
-        "entry": 46.2,
-        "stop": 45.98,
-        "target": 46.64,
-        "risk_per_share": 0.22,
-        "max_loss": 2.42,
+        "entry": 58.51,
+        "stop": 57.81,
+        "target": 59.91,
+        "risk_per_share": 0.7,
+        "max_loss": 5.6,
         "setup": "orb",
-        "entry_time": "12:45 PM",
+        "entry_time": "1:45 PM",
         "flat_by": "15:55"
       }
     }

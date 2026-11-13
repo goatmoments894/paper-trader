@@ -91,6 +91,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 11:35 AM, backtest 2R avg +0.32R (fired 34 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-13",
+      "symbol": "NI",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "11",
+      "max_loss": 2.42,
+      "id": "3f04a078-2bdb-47e1-8f70-b32c72ecdbf2",
+      "client_order_id": "pb-orb-2026-11-13-NI-1794591923",
+      "plan": {
+        "entry": 46.2,
+        "stop": 45.98,
+        "target": 46.64,
+        "risk_per_share": 0.22,
+        "max_loss": 2.42,
+        "setup": "orb",
+        "entry_time": "12:45 PM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 12:45 PM, backtest 2R avg +0.19R (fired 33 of 60 sessions)"
     }
   ]
 }

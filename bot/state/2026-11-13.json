@@ -115,6 +115,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 12:45 PM, backtest 2R avg +0.19R (fired 33 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-13",
+      "symbol": "LQDA",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "8",
+      "max_loss": 5.6,
+      "id": "d776f5f7-ce6e-4cee-8e8a-38c4fac4d891",
+      "client_order_id": "pb-orb-2026-11-13-LQDA-1794595823",
+      "plan": {
+        "entry": 58.51,
+        "stop": 57.81,
+        "target": 59.91,
+        "risk_per_share": 0.7,
+        "max_loss": 5.6,
+        "setup": "orb",
+        "entry_time": "1:45 PM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 1:45 PM, backtest 2R avg +0.15R (fired 33 of 59 sessions)"
     }
   ],
   "is_trading_day": true,
