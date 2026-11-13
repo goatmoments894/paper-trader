@@ -1,4 +1,9 @@
 {
-  "cash": 1000.0,
-  "positions": []
+  "cash": 510.68,
+  "positions": [
+    {
+      "symbol": "KR",
+      "qty": 7.0
+    }
+  ]
 }

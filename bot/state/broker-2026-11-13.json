@@ -1,3 +1,27 @@
 {
-  "orders": []
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-13",
+      "symbol": "KR",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "7",
+      "max_loss": 4.9,
+      "id": "c1fcd8d1-5e8d-42ce-b7b6-4041b4be7777",
+      "client_order_id": "pb-open-2026-11-13-KR-1794577652",
+      "plan": {
+        "entry": 70.09,
+        "stop": 69.39,
+        "target": 71.49,
+        "risk_per_share": 0.7,
+        "max_loss": 4.9,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, breakout_20d, backtest 2R avg +0.26R over 60 sessions; ref 69.815 (2026-11-12T20:59:50)"
+    }
+  ]
 }

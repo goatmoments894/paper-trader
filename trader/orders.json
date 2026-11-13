@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "KR",
+      "symbol": "U",
       "side": "buy",
-      "qty": "7",
+      "qty": "10",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "70.09",
+      "limit_price": "51.01",
       "order_class": "bracket",
-      "take_profit_limit_price": "71.49",
-      "stop_loss_stop_price": "69.39",
-      "why": "buy at the open, breakout_20d, backtest 2R avg +0.26R over 60 sessions; ref 69.815 (2026-11-12T20:59:50)",
+      "take_profit_limit_price": "52.25",
+      "stop_loss_stop_price": "50.39",
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.09R (fired 32 of 60 sessions)",
       "plan": {
-        "entry": 70.09,
-        "stop": 69.39,
-        "target": 71.49,
-        "risk_per_share": 0.7,
-        "max_loss": 4.9,
-        "setup": "open",
-        "entry_time": "9:30 AM",
+        "entry": 51.01,
+        "stop": 50.39,
+        "target": 52.25,
+        "risk_per_share": 0.62,
+        "max_loss": 6.2,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
         "flat_by": "15:55"
       }
     }
