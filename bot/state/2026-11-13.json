@@ -266,5 +266,7 @@
   "orb_skipped": [
     "JNJ",
     "SWKS"
-  ]
+  ],
+  "flat": true,
+  "reported": true
 }

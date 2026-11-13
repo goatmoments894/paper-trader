@@ -76,3 +76,5 @@
 2026-11-13 14:25:20 ET  live SWKS: triggered at 2:10 PM, 15 min ago: too late, not taken
 2026-11-13 15:55:22 ET  ERROR RuntimeError: DELETE /v2/positions/KR -> 403 {"available":"0","code":40310000,"existing_qty":"7","held_for_orders":"7","message":"insufficient qty available for order (requested: 7, available: 0)","symbol":"KR"}
 2026-11-13 16:00:23 ET  ERROR RuntimeError: DELETE /v2/positions/KR -> 403 {"available":"0","code":40310000,"existing_qty":"7","held_for_orders":"7","message":"insufficient qty available for order (requested: 7, available: 0)","symbol":"KR"}
+2026-11-13 16:05:22 ET  flatten: closing KR 7 shares (order c61daaca-0c08-4c76-9848-1a17348cca44)
+2026-11-13 16:05:23 ET  report: wrote /home/runner/work/paper-trader/paper-trader/reports/2026-11-13.md (P&L $-6.16)
