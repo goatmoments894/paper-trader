@@ -46,6 +46,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.09R (fired 32 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-13",
+      "symbol": "FISV",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "8",
+      "max_loss": 3.44,
+      "id": "41af6d16-9434-45dc-adfb-6513e2a8599e",
+      "client_order_id": "pb-orb-2026-11-13-FISV-1794582923",
+      "plan": {
+        "entry": 62.65,
+        "stop": 62.22,
+        "target": 63.51,
+        "risk_per_share": 0.43,
+        "max_loss": 3.44,
+        "setup": "orb",
+        "entry_time": "10:05 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:05 AM, backtest 2R avg +0.17R (fired 31 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

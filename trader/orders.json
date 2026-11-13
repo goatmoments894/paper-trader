@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "U",
+      "symbol": "FISV",
       "side": "buy",
-      "qty": "10",
+      "qty": "8",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "51.01",
+      "limit_price": "62.65",
       "order_class": "bracket",
-      "take_profit_limit_price": "52.25",
-      "stop_loss_stop_price": "50.39",
-      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.09R (fired 32 of 60 sessions)",
+      "take_profit_limit_price": "63.51",
+      "stop_loss_stop_price": "62.22",
+      "why": "opening-range breakout at 10:05 AM, backtest 2R avg +0.17R (fired 31 of 60 sessions)",
       "plan": {
-        "entry": 51.01,
-        "stop": 50.39,
-        "target": 52.25,
-        "risk_per_share": 0.62,
-        "max_loss": 6.2,
+        "entry": 62.65,
+        "stop": 62.22,
+        "target": 63.51,
+        "risk_per_share": 0.43,
+        "max_loss": 3.44,
         "setup": "orb",
-        "entry_time": "9:50 AM",
+        "entry_time": "10:05 AM",
         "flat_by": "15:55"
       }
     }

@@ -22,6 +22,29 @@
         "flat_by": "15:55"
       },
       "why": "buy at the open, breakout_20d, backtest 2R avg +0.26R over 60 sessions; ref 69.815 (2026-11-12T20:59:50)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-13",
+      "symbol": "U",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "10",
+      "max_loss": 6.2,
+      "id": "b2cfbcdd-f15c-4920-88e4-5f5142346255",
+      "client_order_id": "pb-orb-2026-11-13-U-1794581423",
+      "plan": {
+        "entry": 51.01,
+        "stop": 50.39,
+        "target": 52.25,
+        "risk_per_share": 0.62,
+        "max_loss": 6.2,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.09R (fired 32 of 60 sessions)"
     }
   ]
 }
