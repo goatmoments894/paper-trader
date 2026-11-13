@@ -1,30 +1,30 @@
 {
   "date": "2026-11-13",
-  "now_new_york": "2026-11-13 10:15",
+  "now_new_york": "2026-11-13 11:40",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "FISV",
+      "symbol": "GEN",
       "side": "buy",
       "kind": "entry",
-      "amount": "8 shares",
-      "value_usd": 501.2,
-      "entry_ref": 62.65,
+      "amount": "17 shares",
+      "value_usd": 511.19,
+      "entry_ref": 30.07,
       "entry_ref_from": "limit",
-      "stop": 62.22,
-      "target": 63.51,
-      "risk_per_share": 0.43,
-      "max_loss": 3.44,
+      "stop": 29.93,
+      "target": 30.35,
+      "risk_per_share": 0.14,
+      "max_loss": 2.38,
       "reward_risk": 2.0,
-      "fingerprint": "6a4dc47ff809df45",
+      "fingerprint": "e68e4ad9734946a1",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 62.65 (the limit price), stop 62.22, target 63.51: risk 0.43 a share",
-        "max loss $3.44 (limit $30), reward:risk 2.00 (min 1)",
-        "today before this: 2 of 8 trades, $11.10 of $100 daily loss"
+        "entry 30.07 (the limit price), stop 29.93, target 30.35: risk 0.14 a share",
+        "max loss $2.38 (limit $30), reward:risk 2.00 (min 1)",
+        "today before this: 3 of 8 trades, $14.54 of $100 daily loss"
       ]
     }
   ],
@@ -33,13 +33,13 @@
   "warnings": [
     "no price for KR: valued at its cost basis $0"
   ],
-  "cash_after": 4.0,
+  "cash_after": 1.77,
   "today": {
-    "orders_placed": 2,
-    "entries_placed": 2,
-    "loss_at_risk": 11.1,
+    "orders_placed": 3,
+    "entries_placed": 3,
+    "loss_at_risk": 14.54,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-13T15:15:23Z",
+  "checked_at": "2026-11-13T16:40:23Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }
