@@ -156,15 +156,6 @@
       ]
     },
     {
-      "symbol": "JNJ",
-      "avg_r": 0.158,
-      "fired": 32,
-      "sessions": 60,
-      "setups": [
-        "breakout_20d"
-      ]
-    },
-    {
       "symbol": "LQDA",
       "avg_r": 0.151,
       "fired": 33,
@@ -211,5 +202,8 @@
     }
   ],
   "planned": true,
-  "cancelled_unfilled": true
+  "cancelled_unfilled": true,
+  "orb_skipped": [
+    "JNJ"
+  ]
 }
