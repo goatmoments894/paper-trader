@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "GEN",
+      "symbol": "NI",
       "side": "buy",
-      "qty": "17",
+      "qty": "11",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "30.07",
+      "limit_price": "46.20",
       "order_class": "bracket",
-      "take_profit_limit_price": "30.35",
-      "stop_loss_stop_price": "29.93",
-      "why": "opening-range breakout at 11:35 AM, backtest 2R avg +0.32R (fired 34 of 60 sessions)",
+      "take_profit_limit_price": "46.64",
+      "stop_loss_stop_price": "45.98",
+      "why": "opening-range breakout at 12:45 PM, backtest 2R avg +0.19R (fired 33 of 60 sessions)",
       "plan": {
-        "entry": 30.07,
-        "stop": 29.93,
-        "target": 30.35,
-        "risk_per_share": 0.14,
-        "max_loss": 2.38,
+        "entry": 46.2,
+        "stop": 45.98,
+        "target": 46.64,
+        "risk_per_share": 0.22,
+        "max_loss": 2.42,
         "setup": "orb",
-        "entry_time": "11:35 AM",
+        "entry_time": "12:45 PM",
         "flat_by": "15:55"
       }
     }

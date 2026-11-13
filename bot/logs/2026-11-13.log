@@ -64,3 +64,6 @@
 2026-11-13 11:40:21 ET  live GEN: TRIGGERED 11:35 AM at 30.07 (range 29.80-30.06), live 30.04 (2026-11-13T16:40:14)
 2026-11-13 11:40:23 ET  risk PASS [orb] GEN x17 limit 30.07 stop 29.93 target 30.35 max loss $2.38 
 2026-11-13 11:40:23 ET    PLACED [orb] GEN id 82a1039e-435b-4bbd-b8b1-b835cc67dfd5 status pending_new
+2026-11-13 12:45:21 ET  live NI: TRIGGERED 12:45 PM at 46.15 (range 45.86-46.11), live 46.16 (2026-11-13T17:45:03)
+2026-11-13 12:45:22 ET  risk PASS [orb] NI x11 limit 46.20 stop 45.98 target 46.64 max loss $2.42 
+2026-11-13 12:45:23 ET    PLACED [orb] NI id 3f04a078-2bdb-47e1-8f70-b32c72ecdbf2 status pending_new
