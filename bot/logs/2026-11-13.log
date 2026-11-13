@@ -70,3 +70,4 @@
 2026-11-13 13:50:22 ET  live LQDA: TRIGGERED 1:45 PM at 58.69 (range 57.00-58.63), live 58.45 (2026-11-13T18:50:21)
 2026-11-13 13:50:23 ET  risk PASS [orb] LQDA x8 limit 58.51 stop 57.81 target 59.91 max loss $5.6 
 2026-11-13 13:50:23 ET    PLACED [orb] LQDA id d776f5f7-ce6e-4cee-8e8a-38c4fac4d891 status pending_new
+2026-11-13 14:10:20 ET  live SWKS: triggered but 0 shares fit (cash $42.36, risk 1.11 a share)
