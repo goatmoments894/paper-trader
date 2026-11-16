@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-16",
+  "orders": [],
+  "is_trading_day": true,
+  "trading_day_checked": true,
+  "orb_watch": [
+    {
+      "symbol": "VFC",
+      "avg_r": 0.261,
+      "fired": 33,
+      "sessions": 59,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "avg_r": 0.259,
+      "fired": 29,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "OGN",
+      "avg_r": 0.22,
+      "fired": 25,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "RIOT",
+      "avg_r": 0.167,
+      "fired": 34,
+      "sessions": 59,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "TEVA",
+      "avg_r": 0.102,
+      "fired": 42,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "XEL",
+      "avg_r": 0.101,
+      "fired": 32,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "CPRT",
+      "avg_r": 0.096,
+      "fired": 30,
+      "sessions": 59,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "AEO",
+      "avg_r": 0.086,
+      "fired": 43,
+      "sessions": 59,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "JNJ",
+      "avg_r": 0.064,
+      "fired": 32,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    }
+  ],
+  "planned": true,
+  "cancelled_unfilled": true,
+  "orb_skipped": [
+    "JD",
+    "PEP",
+    "GEN",
+    "CMCSA",
+    "KVYO",
+    "CL"
+  ]
+}
