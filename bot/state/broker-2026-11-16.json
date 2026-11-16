@@ -1,3 +1,27 @@
 {
-  "orders": []
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-16",
+      "symbol": "CPRT",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "31",
+      "max_loss": 7.75,
+      "id": "10d5ebc9-ff78-46b4-a903-38dfc3dd7c0e",
+      "client_order_id": "pb-orb-2026-11-16-CPRT-1794848422",
+      "plan": {
+        "entry": 32.39,
+        "stop": 32.14,
+        "target": 32.89,
+        "risk_per_share": 0.25,
+        "max_loss": 7.75,
+        "setup": "orb",
+        "entry_time": "12:00 PM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 12:00 PM, backtest 2R avg +0.10R (fired 30 of 59 sessions)"
+    }
+  ]
 }

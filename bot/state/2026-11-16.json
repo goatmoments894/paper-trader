@@ -23,6 +23,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 12:00 PM, backtest 2R avg +0.10R (fired 30 of 59 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-16",
+      "symbol": "RIOT",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "57",
+      "max_loss": 19.95,
+      "id": "b92b3d81-e901-4ab5-824d-513f53c430fa",
+      "client_order_id": "pb-orb-2026-11-16-RIOT-1794859822",
+      "plan": {
+        "entry": 17.26,
+        "stop": 16.91,
+        "target": 17.96,
+        "risk_per_share": 0.35,
+        "max_loss": 19.95,
+        "setup": "orb",
+        "entry_time": "3:10 PM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 3:10 PM, backtest 2R avg +0.17R (fired 34 of 59 sessions)"
     }
   ],
   "is_trading_day": true,
