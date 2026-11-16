@@ -142,5 +142,7 @@
     "CMCSA",
     "KVYO",
     "CL"
-  ]
+  ],
+  "flat": true,
+  "reported": true
 }
