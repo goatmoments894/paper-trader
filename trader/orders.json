@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "LQDA",
+      "symbol": "CPRT",
       "side": "buy",
-      "qty": "8",
+      "qty": "31",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "58.51",
+      "limit_price": "32.39",
       "order_class": "bracket",
-      "take_profit_limit_price": "59.91",
-      "stop_loss_stop_price": "57.81",
-      "why": "opening-range breakout at 1:45 PM, backtest 2R avg +0.15R (fired 33 of 59 sessions)",
+      "take_profit_limit_price": "32.89",
+      "stop_loss_stop_price": "32.14",
+      "why": "opening-range breakout at 12:00 PM, backtest 2R avg +0.10R (fired 30 of 59 sessions)",
       "plan": {
-        "entry": 58.51,
-        "stop": 57.81,
-        "target": 59.91,
-        "risk_per_share": 0.7,
-        "max_loss": 5.6,
+        "entry": 32.39,
+        "stop": 32.14,
+        "target": 32.89,
+        "risk_per_share": 0.25,
+        "max_loss": 7.75,
         "setup": "orb",
-        "entry_time": "1:45 PM",
+        "entry_time": "12:00 PM",
         "flat_by": "15:55"
       }
     }

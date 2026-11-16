@@ -48,3 +48,6 @@
 2026-11-16 11:33:01 ET  live CMCSA: triggered at 9:55 AM, 98 min ago: too late, not taken
 2026-11-16 11:33:01 ET  live KVYO: triggered at 10:50 AM, 43 min ago: too late, not taken
 2026-11-16 11:33:01 ET  live CL: triggered at 10:15 AM, 78 min ago: too late, not taken
+2026-11-16 12:00:21 ET  live CPRT: TRIGGERED 12:00 PM at 32.37 (range 31.93-32.36), live 32.36 (2026-11-16T17:00:14)
+2026-11-16 12:00:22 ET  risk PASS [orb] CPRT x31 limit 32.39 stop 32.14 target 32.89 max loss $7.75 
+2026-11-16 12:00:23 ET    PLACED [orb] CPRT id 10d5ebc9-ff78-46b4-a903-38dfc3dd7c0e status pending_new
