@@ -57,3 +57,9 @@
 2026-11-17 09:50:23 ET    PLACED [orb] PGR id 198a6cca-1af2-414d-90de-d6c7255fec43 status pending_new
 2026-11-17 09:50:23 ET  risk PASS [orb] PCG x3 limit 13.63 stop 13.52 target 13.85 max loss $0.33 
 2026-11-17 09:50:24 ET    PLACED [orb] PCG id 2924a9f4-1398-4440-9afd-6f6826d45265 status pending_new
+2026-11-17 09:55:20 ET  live ED: triggered but 0 shares fit (cash $1.36, risk 0.56 a share)
+2026-11-17 09:55:21 ET  live TMUS: triggered but 0 shares fit (cash $1.36, risk 1.38 a share)
+2026-11-17 09:55:21 ET  live HD: triggered but 0 shares fit (cash $1.36, risk 6.90 a share)
+2026-11-17 09:55:22 ET  live UPS: triggered but 0 shares fit (cash $1.36, risk 0.76 a share)
+2026-11-17 09:55:22 ET  live CMCSA: triggered but 0 shares fit (cash $1.36, risk 0.17 a share)
+2026-11-17 09:55:23 ET  live AFL: triggered but 0 shares fit (cash $1.36, risk 1.04 a share)
