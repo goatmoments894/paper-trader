@@ -63,3 +63,9 @@
 2026-11-17 09:55:22 ET  live UPS: triggered but 0 shares fit (cash $1.36, risk 0.76 a share)
 2026-11-17 09:55:22 ET  live CMCSA: triggered but 0 shares fit (cash $1.36, risk 0.17 a share)
 2026-11-17 09:55:23 ET  live AFL: triggered but 0 shares fit (cash $1.36, risk 1.04 a share)
+2026-11-17 10:00:21 ET  live ED: triggered but 0 shares fit (cash $1.36, risk 0.20 a share)
+2026-11-17 10:00:21 ET  live TMUS: price 172.05 already 0.58R past the trigger 171.40: not chased
+2026-11-17 10:00:22 ET  live HD: triggered but 0 shares fit (cash $1.36, risk 2.63 a share)
+2026-11-17 10:00:23 ET  live UPS: triggered but 0 shares fit (cash $1.36, risk 0.46 a share)
+2026-11-17 10:00:23 ET  live CMCSA: triggered but 0 shares fit (cash $1.36, risk 0.14 a share)
+2026-11-17 10:00:24 ET  live AFL: triggered but 0 shares fit (cash $1.36, risk 0.71 a share)
