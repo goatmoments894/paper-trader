@@ -3,24 +3,46 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "RIOT",
+      "symbol": "PGR",
       "side": "buy",
-      "qty": "57",
+      "qty": "4",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "17.26",
+      "limit_price": "236.15",
       "order_class": "bracket",
-      "take_profit_limit_price": "17.96",
-      "stop_loss_stop_price": "16.91",
-      "why": "opening-range breakout at 3:10 PM, backtest 2R avg +0.17R (fired 34 of 59 sessions)",
+      "take_profit_limit_price": "237.89",
+      "stop_loss_stop_price": "235.28",
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.28R (fired 26 of 59 sessions)",
       "plan": {
-        "entry": 17.26,
-        "stop": 16.91,
-        "target": 17.96,
-        "risk_per_share": 0.35,
-        "max_loss": 19.95,
+        "entry": 236.15,
+        "stop": 235.28,
+        "target": 237.89,
+        "risk_per_share": 0.87,
+        "max_loss": 3.48,
         "setup": "orb",
-        "entry_time": "3:10 PM",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      }
+    },
+    {
+      "symbol": "PCG",
+      "side": "buy",
+      "qty": "3",
+      "type": "limit",
+      "time_in_force": "day",
+      "limit_price": "13.63",
+      "order_class": "bracket",
+      "take_profit_limit_price": "13.85",
+      "stop_loss_stop_price": "13.52",
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.09R (fired 34 of 60 sessions)",
+      "plan": {
+        "entry": 13.63,
+        "stop": 13.52,
+        "target": 13.85,
+        "risk_per_share": 0.11,
+        "max_loss": 0.33,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
         "flat_by": "15:55"
       }
     }
