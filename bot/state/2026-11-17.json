@@ -2,5 +2,144 @@
   "date": "2026-11-17",
   "orders": [],
   "is_trading_day": true,
-  "trading_day_checked": true
+  "trading_day_checked": true,
+  "orb_watch": [
+    {
+      "symbol": "ED",
+      "avg_r": 0.352,
+      "fired": 32,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "SO",
+      "avg_r": 0.302,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "PGR",
+      "avg_r": 0.278,
+      "fired": 26,
+      "sessions": 59,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "CGON",
+      "avg_r": 0.263,
+      "fired": 20,
+      "sessions": 42,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "DUOL",
+      "avg_r": 0.247,
+      "fired": 30,
+      "sessions": 57,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "PEP",
+      "avg_r": 0.163,
+      "fired": 36,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "TMUS",
+      "avg_r": 0.156,
+      "fired": 35,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "HD",
+      "avg_r": 0.147,
+      "fired": 30,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "MOH",
+      "avg_r": 0.141,
+      "fired": 27,
+      "sessions": 56,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "UPS",
+      "avg_r": 0.134,
+      "fired": 35,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "VRSK",
+      "avg_r": 0.11,
+      "fired": 37,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "CMCSA",
+      "avg_r": 0.104,
+      "fired": 32,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d",
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "PCG",
+      "avg_r": 0.085,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "AFL",
+      "avg_r": 0.085,
+      "fired": 27,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "CB",
+      "avg_r": 0.08,
+      "fired": 33,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    }
+  ],
+  "planned": true
 }
