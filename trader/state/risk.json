@@ -1,69 +1,46 @@
 {
   "date": "2026-11-17",
-  "now_new_york": "2026-11-17 10:05",
+  "now_new_york": "2026-11-17 10:20",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "ED",
+      "symbol": "MOH",
       "side": "buy",
       "kind": "entry",
-      "amount": "7 shares",
-      "value_usd": 843.08,
-      "entry_ref": 120.44,
+      "amount": "3 shares",
+      "value_usd": 687.39,
+      "entry_ref": 229.13,
       "entry_ref_from": "limit",
-      "stop": 120.19,
-      "target": 120.94,
-      "risk_per_share": 0.25,
-      "max_loss": 1.75,
+      "stop": 227.05,
+      "target": 233.29,
+      "risk_per_share": 2.08,
+      "max_loss": 6.24,
       "reward_risk": 2.0,
-      "fingerprint": "9e7dc4dd7262d52c",
+      "fingerprint": "88375b94a9b311be",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 120.44 (the limit price), stop 120.19, target 120.94: risk 0.25 a share",
-        "max loss $1.75 (limit $29.72), reward:risk 2.00 (min 1)",
-        "today before this: 1 of 8 trades, $0.33 of $99.06 daily loss"
-      ]
-    },
-    {
-      "index": 2,
-      "symbol": "CMCSA",
-      "side": "buy",
-      "kind": "entry",
-      "amount": "4 shares",
-      "value_usd": 102.68,
-      "entry_ref": 25.67,
-      "entry_ref_from": "limit",
-      "stop": 25.49,
-      "target": 26.03,
-      "risk_per_share": 0.18,
-      "max_loss": 0.72,
-      "reward_risk": 2.0,
-      "fingerprint": "402b57829309feb7",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": [],
-      "info": [
-        "entry 25.67 (the limit price), stop 25.49, target 26.03: risk 0.18 a share",
-        "max loss $0.72 (limit $29.72), reward:risk 2.00 (min 1)",
-        "today before this: 2 of 8 trades, $2.08 of $99.06 daily loss"
+        "entry 229.13 (the limit price), stop 227.05, target 233.29: risk 2.08 a share",
+        "max loss $6.24 (limit $29.72), reward:risk 2.00 (min 1)",
+        "today before this: 3 of 8 trades, $2.80 of $99.06 daily loss"
       ]
     }
   ],
-  "pass": 2,
+  "pass": 1,
   "block": 0,
   "warnings": [
+    "no price for CMCSA: valued at its cost basis $0",
     "no price for PCG: valued at its cost basis $0"
   ],
-  "cash_after": 0.21,
+  "cash_after": 154.73,
   "today": {
-    "orders_placed": 1,
-    "entries_placed": 1,
-    "loss_at_risk": 0.33,
+    "orders_placed": 3,
+    "entries_placed": 3,
+    "loss_at_risk": 2.8,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-17T15:05:23Z",
+  "checked_at": "2026-11-17T15:20:22Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }

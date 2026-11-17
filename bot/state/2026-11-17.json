@@ -92,6 +92,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.10R (fired 32 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-17",
+      "symbol": "MOH",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "3",
+      "max_loss": 6.24,
+      "id": "d34b5978-361a-48f9-bf93-111ad53e1b25",
+      "client_order_id": "pb-orb-2026-11-17-MOH-1794928822",
+      "plan": {
+        "entry": 229.13,
+        "stop": 227.05,
+        "target": 233.29,
+        "risk_per_share": 2.08,
+        "max_loss": 6.24,
+        "setup": "orb",
+        "entry_time": "10:15 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.14R (fired 27 of 56 sessions)"
     }
   ],
   "is_trading_day": true,

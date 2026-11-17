@@ -3,46 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "ED",
+      "symbol": "MOH",
       "side": "buy",
-      "qty": "7",
+      "qty": "3",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "120.44",
+      "limit_price": "229.13",
       "order_class": "bracket",
-      "take_profit_limit_price": "120.94",
-      "stop_loss_stop_price": "120.19",
-      "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.35R (fired 32 of 60 sessions)",
+      "take_profit_limit_price": "233.29",
+      "stop_loss_stop_price": "227.05",
+      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.14R (fired 27 of 56 sessions)",
       "plan": {
-        "entry": 120.44,
-        "stop": 120.19,
-        "target": 120.94,
-        "risk_per_share": 0.25,
-        "max_loss": 1.75,
+        "entry": 229.13,
+        "stop": 227.05,
+        "target": 233.29,
+        "risk_per_share": 2.08,
+        "max_loss": 6.24,
         "setup": "orb",
-        "entry_time": "9:55 AM",
-        "flat_by": "15:55"
-      }
-    },
-    {
-      "symbol": "CMCSA",
-      "side": "buy",
-      "qty": "4",
-      "type": "limit",
-      "time_in_force": "day",
-      "limit_price": "25.67",
-      "order_class": "bracket",
-      "take_profit_limit_price": "26.03",
-      "stop_loss_stop_price": "25.49",
-      "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.10R (fired 32 of 60 sessions)",
-      "plan": {
-        "entry": 25.67,
-        "stop": 25.49,
-        "target": 26.03,
-        "risk_per_share": 0.18,
-        "max_loss": 0.72,
-        "setup": "orb",
-        "entry_time": "9:55 AM",
+        "entry_time": "10:15 AM",
         "flat_by": "15:55"
       }
     }

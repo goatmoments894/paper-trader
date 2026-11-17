@@ -82,3 +82,6 @@
 2026-11-17 10:05:24 ET    PLACED [orb] CMCSA id dadc0b2b-8fdf-47f3-be5c-a881d22bbae9 status pending_new
 2026-11-17 10:10:21 ET  live TMUS: triggered at 9:55 AM, 15 min ago: too late, not taken
 2026-11-17 10:10:21 ET  live UPS: triggered at 9:55 AM, 15 min ago: too late, not taken
+2026-11-17 10:20:21 ET  live MOH: TRIGGERED 10:15 AM at 229.30 (range 224.83-229.26), live 228.90 (2026-11-17T15:13:10)
+2026-11-17 10:20:22 ET  risk PASS [orb] MOH x3 limit 229.13 stop 227.05 target 233.29 max loss $6.24 
+2026-11-17 10:20:22 ET    PLACED [orb] MOH id d34b5978-361a-48f9-bf93-111ad53e1b25 status pending_new
