@@ -86,3 +86,4 @@
 2026-11-17 10:20:22 ET  risk PASS [orb] MOH x3 limit 229.13 stop 227.05 target 233.29 max loss $6.24 
 2026-11-17 10:20:22 ET    PLACED [orb] MOH id d34b5978-361a-48f9-bf93-111ad53e1b25 status pending_new
 2026-11-17 15:55:22 ET  ERROR RuntimeError: DELETE /v2/positions/PCG -> 403 {"available":"0","code":40310000,"existing_qty":"3","held_for_orders":"3","message":"insufficient qty available for order (requested: 3, available: 0)","symbol":"PCG"}
+2026-11-17 16:00:22 ET  ERROR RuntimeError: DELETE /v2/positions/PCG -> 403 {"available":"0","code":40310000,"existing_qty":"3","held_for_orders":"3","message":"insufficient qty available for order (requested: 3, available: 0)","symbol":"PCG"}
