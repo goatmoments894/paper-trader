@@ -69,3 +69,14 @@
 2026-11-17 10:00:23 ET  live UPS: triggered but 0 shares fit (cash $1.36, risk 0.46 a share)
 2026-11-17 10:00:23 ET  live CMCSA: triggered but 0 shares fit (cash $1.36, risk 0.14 a share)
 2026-11-17 10:00:24 ET  live AFL: triggered but 0 shares fit (cash $1.36, risk 0.71 a share)
+2026-11-17 10:05:20 ET  cancel: orb PGR buy not filled, cancelled
+2026-11-17 10:05:21 ET  live ED: TRIGGERED 9:55 AM at 120.67 (range 119.92-120.47), live 120.32 (2026-11-17T15:05:16)
+2026-11-17 10:05:21 ET  live TMUS: price 172.41 already 0.90R past the trigger 171.40: not chased
+2026-11-17 10:05:22 ET  live HD: triggered at 9:50 AM, 15 min ago: too late, not taken
+2026-11-17 10:05:22 ET  live UPS: triggered but 0 shares fit (cash $102.89, risk 0.27 a share)
+2026-11-17 10:05:22 ET  live CMCSA: TRIGGERED 9:55 AM at 25.65 (range 25.39-25.59), live 25.64 (2026-11-17T15:05:08)
+2026-11-17 10:05:23 ET  live AFL: triggered at 9:50 AM, 15 min ago: too late, not taken
+2026-11-17 10:05:23 ET  risk PASS [orb] ED x7 limit 120.44 stop 120.19 target 120.94 max loss $1.75 
+2026-11-17 10:05:24 ET    PLACED [orb] ED id 9138c7b3-2749-4ca0-8e19-5db064a06cdf status pending_new
+2026-11-17 10:05:24 ET  risk PASS [orb] CMCSA x4 limit 25.67 stop 25.49 target 26.03 max loss $0.72 
+2026-11-17 10:05:24 ET    PLACED [orb] CMCSA id dadc0b2b-8fdf-47f3-be5c-a881d22bbae9 status pending_new

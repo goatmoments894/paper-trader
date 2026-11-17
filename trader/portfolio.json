@@ -1,4 +1,9 @@
 {
-  "cash": 986.83,
-  "positions": []
+  "cash": 945.97,
+  "positions": [
+    {
+      "symbol": "PCG",
+      "qty": 3.0
+    }
+  ]
 }

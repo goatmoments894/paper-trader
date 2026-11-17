@@ -1,3 +1,50 @@
 {
-  "orders": []
+  "orders": [
+    {
+      "status": "cancelled",
+      "date": "2026-11-17",
+      "symbol": "PGR",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "4",
+      "max_loss": 3.48,
+      "id": "198a6cca-1af2-414d-90de-d6c7255fec43",
+      "client_order_id": "pb-orb-2026-11-17-PGR-1794927023",
+      "plan": {
+        "entry": 236.15,
+        "stop": 235.28,
+        "target": 237.89,
+        "risk_per_share": 0.87,
+        "max_loss": 3.48,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.28R (fired 26 of 59 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-17",
+      "symbol": "PCG",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "3",
+      "max_loss": 0.33,
+      "id": "2924a9f4-1398-4440-9afd-6f6826d45265",
+      "client_order_id": "pb-orb-2026-11-17-PCG-1794927024",
+      "plan": {
+        "entry": 13.63,
+        "stop": 13.52,
+        "target": 13.85,
+        "risk_per_share": 0.11,
+        "max_loss": 0.33,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.09R (fired 34 of 60 sessions)"
+    }
+  ]
 }

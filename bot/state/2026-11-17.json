@@ -2,7 +2,7 @@
   "date": "2026-11-17",
   "orders": [
     {
-      "status": "placed",
+      "status": "cancelled",
       "date": "2026-11-17",
       "symbol": "PGR",
       "side": "buy",
@@ -46,6 +46,52 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.09R (fired 34 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-17",
+      "symbol": "ED",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "7",
+      "max_loss": 1.75,
+      "id": "9138c7b3-2749-4ca0-8e19-5db064a06cdf",
+      "client_order_id": "pb-orb-2026-11-17-ED-1794927923",
+      "plan": {
+        "entry": 120.44,
+        "stop": 120.19,
+        "target": 120.94,
+        "risk_per_share": 0.25,
+        "max_loss": 1.75,
+        "setup": "orb",
+        "entry_time": "9:55 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.35R (fired 32 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-17",
+      "symbol": "CMCSA",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "4",
+      "max_loss": 0.72,
+      "id": "dadc0b2b-8fdf-47f3-be5c-a881d22bbae9",
+      "client_order_id": "pb-orb-2026-11-17-CMCSA-1794927924",
+      "plan": {
+        "entry": 25.67,
+        "stop": 25.49,
+        "target": 26.03,
+        "risk_per_share": 0.18,
+        "max_loss": 0.72,
+        "setup": "orb",
+        "entry_time": "9:55 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.10R (fired 32 of 60 sessions)"
     }
   ],
   "is_trading_day": true,
@@ -115,15 +161,6 @@
       ]
     },
     {
-      "symbol": "HD",
-      "avg_r": 0.147,
-      "fired": 30,
-      "sessions": 60,
-      "setups": [
-        "bull_flag"
-      ]
-    },
-    {
       "symbol": "MOH",
       "avg_r": 0.141,
       "fired": 27,
@@ -170,15 +207,6 @@
       ]
     },
     {
-      "symbol": "AFL",
-      "avg_r": 0.085,
-      "fired": 27,
-      "sessions": 60,
-      "setups": [
-        "breakout_20d"
-      ]
-    },
-    {
       "symbol": "CB",
       "avg_r": 0.08,
       "fired": 33,
@@ -189,5 +217,9 @@
     }
   ],
   "planned": true,
-  "cancelled_unfilled": true
+  "cancelled_unfilled": true,
+  "orb_skipped": [
+    "HD",
+    "AFL"
+  ]
 }

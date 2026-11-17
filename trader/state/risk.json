@@ -1,67 +1,69 @@
 {
   "date": "2026-11-17",
-  "now_new_york": "2026-11-17 09:50",
+  "now_new_york": "2026-11-17 10:05",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "PGR",
+      "symbol": "ED",
       "side": "buy",
       "kind": "entry",
-      "amount": "4 shares",
-      "value_usd": 944.6,
-      "entry_ref": 236.15,
+      "amount": "7 shares",
+      "value_usd": 843.08,
+      "entry_ref": 120.44,
       "entry_ref_from": "limit",
-      "stop": 235.28,
-      "target": 237.89,
-      "risk_per_share": 0.87,
-      "max_loss": 3.48,
+      "stop": 120.19,
+      "target": 120.94,
+      "risk_per_share": 0.25,
+      "max_loss": 1.75,
       "reward_risk": 2.0,
-      "fingerprint": "754a8468b77a1772",
+      "fingerprint": "9e7dc4dd7262d52c",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 236.15 (the limit price), stop 235.28, target 237.89: risk 0.87 a share",
-        "max loss $3.48 (limit $29.72), reward:risk 2.00 (min 1)",
-        "today before this: 0 of 8 trades, $0 of $99.06 daily loss"
+        "entry 120.44 (the limit price), stop 120.19, target 120.94: risk 0.25 a share",
+        "max loss $1.75 (limit $29.72), reward:risk 2.00 (min 1)",
+        "today before this: 1 of 8 trades, $0.33 of $99.06 daily loss"
       ]
     },
     {
       "index": 2,
-      "symbol": "PCG",
+      "symbol": "CMCSA",
       "side": "buy",
       "kind": "entry",
-      "amount": "3 shares",
-      "value_usd": 40.89,
-      "entry_ref": 13.63,
+      "amount": "4 shares",
+      "value_usd": 102.68,
+      "entry_ref": 25.67,
       "entry_ref_from": "limit",
-      "stop": 13.52,
-      "target": 13.85,
-      "risk_per_share": 0.11,
-      "max_loss": 0.33,
+      "stop": 25.49,
+      "target": 26.03,
+      "risk_per_share": 0.18,
+      "max_loss": 0.72,
       "reward_risk": 2.0,
-      "fingerprint": "832be592f167b358",
+      "fingerprint": "402b57829309feb7",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 13.63 (the limit price), stop 13.52, target 13.85: risk 0.11 a share",
-        "max loss $0.33 (limit $29.72), reward:risk 2.00 (min 1)",
-        "today before this: 1 of 8 trades, $3.48 of $99.06 daily loss"
+        "entry 25.67 (the limit price), stop 25.49, target 26.03: risk 0.18 a share",
+        "max loss $0.72 (limit $29.72), reward:risk 2.00 (min 1)",
+        "today before this: 2 of 8 trades, $2.08 of $99.06 daily loss"
       ]
     }
   ],
   "pass": 2,
   "block": 0,
-  "warnings": [],
-  "cash_after": 1.34,
+  "warnings": [
+    "no price for PCG: valued at its cost basis $0"
+  ],
+  "cash_after": 0.21,
   "today": {
-    "orders_placed": 0,
-    "entries_placed": 0,
-    "loss_at_risk": 0.0,
+    "orders_placed": 1,
+    "entries_placed": 1,
+    "loss_at_risk": 0.33,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-17T14:50:23Z",
+  "checked_at": "2026-11-17T15:05:23Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }
