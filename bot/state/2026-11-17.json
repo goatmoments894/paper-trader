@@ -152,30 +152,12 @@
       ]
     },
     {
-      "symbol": "TMUS",
-      "avg_r": 0.156,
-      "fired": 35,
-      "sessions": 60,
-      "setups": [
-        "bull_flag"
-      ]
-    },
-    {
       "symbol": "MOH",
       "avg_r": 0.141,
       "fired": 27,
       "sessions": 56,
       "setups": [
         "breakout_20d"
-      ]
-    },
-    {
-      "symbol": "UPS",
-      "avg_r": 0.134,
-      "fired": 35,
-      "sessions": 60,
-      "setups": [
-        "bull_flag"
       ]
     },
     {
@@ -220,6 +202,8 @@
   "cancelled_unfilled": true,
   "orb_skipped": [
     "HD",
-    "AFL"
+    "AFL",
+    "TMUS",
+    "UPS"
   ]
 }
