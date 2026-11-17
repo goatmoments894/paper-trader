@@ -228,5 +228,7 @@
     "AFL",
     "TMUS",
     "UPS"
-  ]
+  ],
+  "flat": true,
+  "reported": true
 }

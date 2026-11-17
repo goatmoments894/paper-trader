@@ -87,3 +87,5 @@
 2026-11-17 10:20:22 ET    PLACED [orb] MOH id d34b5978-361a-48f9-bf93-111ad53e1b25 status pending_new
 2026-11-17 15:55:22 ET  ERROR RuntimeError: DELETE /v2/positions/PCG -> 403 {"available":"0","code":40310000,"existing_qty":"3","held_for_orders":"3","message":"insufficient qty available for order (requested: 3, available: 0)","symbol":"PCG"}
 2026-11-17 16:00:22 ET  ERROR RuntimeError: DELETE /v2/positions/PCG -> 403 {"available":"0","code":40310000,"existing_qty":"3","held_for_orders":"3","message":"insufficient qty available for order (requested: 3, available: 0)","symbol":"PCG"}
+2026-11-17 16:05:22 ET  flatten: closing PCG 3 shares (order 401df9b3-77c2-4936-86de-d19bd3f13a88)
+2026-11-17 16:05:23 ET  report: wrote /home/runner/work/paper-trader/paper-trader/reports/2026-11-17.md (P&L $-11.61)
