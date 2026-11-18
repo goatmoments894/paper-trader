@@ -69,6 +69,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.09R (fired 33 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-18",
+      "symbol": "VFC",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "1",
+      "max_loss": 0.26,
+      "id": "dae3cd89-302e-48d8-8368-a5546f05b293",
+      "client_order_id": "pb-orb-2026-11-18-VFC-1795014321",
+      "plan": {
+        "entry": 20.52,
+        "stop": 20.26,
+        "target": 21.04,
+        "risk_per_share": 0.26,
+        "max_loss": 0.26,
+        "setup": "orb",
+        "entry_time": "10:05 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:05 AM, backtest 2R avg +0.26R (fired 33 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

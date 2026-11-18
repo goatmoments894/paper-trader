@@ -1,45 +1,46 @@
 {
   "date": "2026-11-18",
-  "now_new_york": "2026-11-18 09:55",
+  "now_new_york": "2026-11-18 10:05",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "GEN",
+      "symbol": "VFC",
       "side": "buy",
       "kind": "entry",
-      "amount": "30 shares",
-      "value_usd": 903.9,
-      "entry_ref": 30.13,
+      "amount": "1 shares",
+      "value_usd": 20.52,
+      "entry_ref": 20.52,
       "entry_ref_from": "limit",
-      "stop": 29.59,
-      "target": 31.21,
-      "risk_per_share": 0.54,
-      "max_loss": 16.2,
+      "stop": 20.26,
+      "target": 21.04,
+      "risk_per_share": 0.26,
+      "max_loss": 0.26,
       "reward_risk": 2.0,
-      "fingerprint": "4006ae05f47e0d14",
+      "fingerprint": "5b8074e6bfbb1425",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 30.13 (the limit price), stop 29.59, target 31.21: risk 0.54 a share",
-        "max loss $16.20 (limit $29.23), reward:risk 2.00 (min 1)",
-        "today before this: 2 of 8 trades, $4.62 of $97.45 daily loss"
+        "entry 20.52 (the limit price), stop 20.26, target 21.04: risk 0.26 a share",
+        "max loss $0.26 (limit $29.23), reward:risk 2.00 (min 1)",
+        "today before this: 3 of 8 trades, $20.82 of $97.45 daily loss"
       ]
     }
   ],
   "pass": 1,
   "block": 0,
   "warnings": [
+    "no price for GEN: valued at its cost basis $0",
     "no price for VTRS: valued at its cost basis $0"
   ],
-  "cash_after": 25.84,
+  "cash_after": 10.12,
   "today": {
-    "orders_placed": 2,
-    "entries_placed": 2,
-    "loss_at_risk": 4.62,
+    "orders_placed": 3,
+    "entries_placed": 3,
+    "loss_at_risk": 20.82,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-18T14:55:21Z",
+  "checked_at": "2026-11-18T15:05:21Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }

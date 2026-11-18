@@ -56,3 +56,8 @@
 2026-11-18 09:55:21 ET    PLACED [orb] GEN id 5bdd20b8-5cdb-4e84-a61a-fc1d26eb718d status pending_new
 2026-11-18 10:00:22 ET  live RYTM: triggered but 0 shares fit (cash $30.64, risk 0.04 a share)
 2026-11-18 10:00:22 ET  live SN: triggered but 0 shares fit (cash $30.64, risk 4.12 a share)
+2026-11-18 10:05:20 ET  live VFC: TRIGGERED 10:05 AM at 20.49 (range 20.03-20.48), live 20.50 (2026-11-18T15:05:10)
+2026-11-18 10:05:21 ET  live RYTM: triggered but 0 shares fit (cash $10.12, risk 0.11 a share)
+2026-11-18 10:05:21 ET  live SN: triggered but 0 shares fit (cash $10.12, risk 3.84 a share)
+2026-11-18 10:05:21 ET  risk PASS [orb] VFC x1 limit 20.52 stop 20.26 target 21.04 max loss $0.26 
+2026-11-18 10:05:21 ET    PLACED [orb] VFC id dae3cd89-302e-48d8-8368-a5546f05b293 status pending_new

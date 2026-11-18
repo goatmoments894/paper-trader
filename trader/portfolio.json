@@ -1,6 +1,10 @@
 {
-  "cash": 929.74,
+  "cash": 30.64,
   "positions": [
+    {
+      "symbol": "GEN",
+      "qty": 30.0
+    },
     {
       "symbol": "VTRS",
       "qty": 2.0
