@@ -98,15 +98,6 @@
   "trading_day_checked": true,
   "orb_watch": [
     {
-      "symbol": "EIX",
-      "avg_r": 0.422,
-      "fired": 33,
-      "sessions": 60,
-      "setups": [
-        "breakout_20d"
-      ]
-    },
-    {
       "symbol": "DLTR",
       "avg_r": 0.287,
       "fired": 31,
@@ -176,6 +167,7 @@
     "RYTM",
     "SN",
     "CLX",
-    "HD"
+    "HD",
+    "EIX"
   ]
 }
