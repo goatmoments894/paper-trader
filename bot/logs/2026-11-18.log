@@ -81,3 +81,5 @@
 2026-11-18 13:35:22 ET    PLACED [orb] CMCSA id 9c3f5a9d-1d83-43cf-b0b1-ae74f3909875 status pending_new
 2026-11-18 15:55:22 ET  ERROR RuntimeError: DELETE /v2/positions/CMCSA -> 403 {"available":"0","code":40310000,"existing_qty":"1","held_for_orders":"1","message":"insufficient qty available for order (requested: 1, available: 0)","symbol":"CMCSA"}
 2026-11-18 16:00:22 ET  ERROR RuntimeError: DELETE /v2/positions/GEN -> 403 {"available":"0","code":40310000,"existing_qty":"30","held_for_orders":"30","message":"insufficient qty available for order (requested: 30, available: 0)","symbol":"GEN"}
+2026-11-18 16:05:22 ET  flatten: closing GEN 30 shares (order 34ed7421-0dcf-4e3d-ac29-073a514085e3)
+2026-11-18 16:05:23 ET  report: wrote /home/runner/work/paper-trader/paper-trader/reports/2026-11-18.md (P&L $-4.07)

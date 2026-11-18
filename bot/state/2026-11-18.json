@@ -192,5 +192,7 @@
     "CLX",
     "HD",
     "EIX"
-  ]
+  ],
+  "flat": true,
+  "reported": true
 }
