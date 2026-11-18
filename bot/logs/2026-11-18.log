@@ -61,3 +61,5 @@
 2026-11-18 10:05:21 ET  live SN: triggered but 0 shares fit (cash $10.12, risk 3.84 a share)
 2026-11-18 10:05:21 ET  risk PASS [orb] VFC x1 limit 20.52 stop 20.26 target 21.04 max loss $0.26 
 2026-11-18 10:05:21 ET    PLACED [orb] VFC id dae3cd89-302e-48d8-8368-a5546f05b293 status pending_new
+2026-11-18 10:10:21 ET  live RYTM: triggered but 0 shares fit (cash $10.16, risk 0.69 a share)
+2026-11-18 10:10:21 ET  live SN: triggered but 0 shares fit (cash $10.16, risk 3.83 a share)
