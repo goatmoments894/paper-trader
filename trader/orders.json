@@ -3,24 +3,46 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "MOH",
+      "symbol": "DLTR",
       "side": "buy",
       "qty": "3",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "229.13",
+      "limit_price": "140.23",
       "order_class": "bracket",
-      "take_profit_limit_price": "233.29",
-      "stop_loss_stop_price": "227.05",
-      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.14R (fired 27 of 56 sessions)",
+      "take_profit_limit_price": "143.03",
+      "stop_loss_stop_price": "138.83",
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.19R over 60 sessions; ref 139.675 (2026-11-17T20:59:56)",
       "plan": {
-        "entry": 229.13,
-        "stop": 227.05,
-        "target": 233.29,
-        "risk_per_share": 2.08,
-        "max_loss": 6.24,
-        "setup": "orb",
-        "entry_time": "10:15 AM",
+        "entry": 140.23,
+        "stop": 138.83,
+        "target": 143.03,
+        "risk_per_share": 1.4,
+        "max_loss": 4.2,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      }
+    },
+    {
+      "symbol": "VTRS",
+      "side": "buy",
+      "qty": "2",
+      "type": "limit",
+      "time_in_force": "day",
+      "limit_price": "20.53",
+      "order_class": "bracket",
+      "take_profit_limit_price": "20.95",
+      "stop_loss_stop_price": "20.32",
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.15R over 60 sessions; ref 20.445 (2026-11-17T20:59:59)",
+      "plan": {
+        "entry": 20.53,
+        "stop": 20.32,
+        "target": 20.95,
+        "risk_per_share": 0.21,
+        "max_loss": 0.42,
+        "setup": "open",
+        "entry_time": "9:30 AM",
         "flat_by": "15:55"
       }
     }

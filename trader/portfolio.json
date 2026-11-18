@@ -1,10 +1,6 @@
 {
-  "cash": 842.12,
+  "cash": 934.29,
   "positions": [
-    {
-      "symbol": "CMCSA",
-      "qty": 4.0
-    },
     {
       "symbol": "PCG",
       "qty": 3.0

@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-18",
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-18",
+      "symbol": "DLTR",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "3",
+      "max_loss": 4.2,
+      "id": "beac4f65-adc2-4d7b-be8b-fc6f035aaf2d",
+      "client_order_id": "pb-open-2026-11-18-DLTR-1795009745",
+      "plan": {
+        "entry": 140.23,
+        "stop": 138.83,
+        "target": 143.03,
+        "risk_per_share": 1.4,
+        "max_loss": 4.2,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.19R over 60 sessions; ref 139.675 (2026-11-17T20:59:56)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-18",
+      "symbol": "VTRS",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "2",
+      "max_loss": 0.42,
+      "id": "4b715134-d7e1-4d79-93b0-c867de5431ea",
+      "client_order_id": "pb-open-2026-11-18-VTRS-1795009745",
+      "plan": {
+        "entry": 20.53,
+        "stop": 20.32,
+        "target": 20.95,
+        "risk_per_share": 0.21,
+        "max_loss": 0.42,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.15R over 60 sessions; ref 20.445 (2026-11-17T20:59:59)"
+    }
+  ],
+  "is_trading_day": true,
+  "trading_day_checked": true,
+  "orb_watch": [
+    {
+      "symbol": "EIX",
+      "avg_r": 0.422,
+      "fired": 33,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "DLTR",
+      "avg_r": 0.287,
+      "fired": 31,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "VFC",
+      "avg_r": 0.262,
+      "fired": 33,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "CLX",
+      "avg_r": 0.249,
+      "fired": 31,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "TMUS",
+      "avg_r": 0.197,
+      "fired": 36,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "FISV",
+      "avg_r": 0.184,
+      "fired": 30,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "HD",
+      "avg_r": 0.147,
+      "fired": 30,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "HLT",
+      "avg_r": 0.113,
+      "fired": 27,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "RYTM",
+      "avg_r": 0.105,
+      "fired": 18,
+      "sessions": 41,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "CMCSA",
+      "avg_r": 0.104,
+      "fired": 32,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "GEN",
+      "avg_r": 0.085,
+      "fired": 33,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "SN",
+      "avg_r": 0.066,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    }
+  ],
+  "planned": true
+}
