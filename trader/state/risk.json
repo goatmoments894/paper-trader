@@ -1,30 +1,30 @@
 {
   "date": "2026-11-18",
-  "now_new_york": "2026-11-18 10:05",
+  "now_new_york": "2026-11-18 13:35",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "VFC",
+      "symbol": "CMCSA",
       "side": "buy",
       "kind": "entry",
       "amount": "1 shares",
-      "value_usd": 20.52,
-      "entry_ref": 20.52,
+      "value_usd": 25.54,
+      "entry_ref": 25.54,
       "entry_ref_from": "limit",
-      "stop": 20.26,
-      "target": 21.04,
-      "risk_per_share": 0.26,
-      "max_loss": 0.26,
+      "stop": 25.24,
+      "target": 26.14,
+      "risk_per_share": 0.3,
+      "max_loss": 0.3,
       "reward_risk": 2.0,
-      "fingerprint": "5b8074e6bfbb1425",
+      "fingerprint": "acc0f1cdb865fd1b",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 20.52 (the limit price), stop 20.26, target 21.04: risk 0.26 a share",
-        "max loss $0.26 (limit $29.23), reward:risk 2.00 (min 1)",
-        "today before this: 3 of 8 trades, $20.82 of $97.45 daily loss"
+        "entry 25.54 (the limit price), stop 25.24, target 26.14: risk 0.30 a share",
+        "max loss $0.30 (limit $29.23), reward:risk 2.00 (min 1)",
+        "today before this: 4 of 8 trades, $21.08 of $97.45 daily loss"
       ]
     }
   ],
@@ -34,13 +34,13 @@
     "no price for GEN: valued at its cost basis $0",
     "no price for VTRS: valued at its cost basis $0"
   ],
-  "cash_after": 10.12,
+  "cash_after": 5.66,
   "today": {
-    "orders_placed": 3,
-    "entries_placed": 3,
-    "loss_at_risk": 20.82,
+    "orders_placed": 4,
+    "entries_placed": 4,
+    "loss_at_risk": 21.08,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-18T15:05:21Z",
+  "checked_at": "2026-11-18T18:35:21Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }

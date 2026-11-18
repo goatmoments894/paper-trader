@@ -76,3 +76,6 @@
 2026-11-18 11:55:20 ET  live EIX: triggered but 0 shares fit (cash $10.16, risk 0.79 a share)
 2026-11-18 12:00:20 ET  live EIX: triggered but 0 shares fit (cash $10.16, risk 0.77 a share)
 2026-11-18 12:05:20 ET  live EIX: triggered at 11:50 AM, 15 min ago: too late, not taken
+2026-11-18 13:35:21 ET  live CMCSA: TRIGGERED 1:35 PM at 25.50 (range 24.99-25.50), live 25.52 (2026-11-18T18:35:16)
+2026-11-18 13:35:21 ET  risk PASS [orb] CMCSA x1 limit 25.54 stop 25.24 target 26.14 max loss $0.3 
+2026-11-18 13:35:22 ET    PLACED [orb] CMCSA id 9c3f5a9d-1d83-43cf-b0b1-ae74f3909875 status pending_new

@@ -92,6 +92,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 10:05 AM, backtest 2R avg +0.26R (fired 33 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-18",
+      "symbol": "CMCSA",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "1",
+      "max_loss": 0.3,
+      "id": "9c3f5a9d-1d83-43cf-b0b1-ae74f3909875",
+      "client_order_id": "pb-orb-2026-11-18-CMCSA-1795026922",
+      "plan": {
+        "entry": 25.54,
+        "stop": 25.24,
+        "target": 26.14,
+        "risk_per_share": 0.3,
+        "max_loss": 0.3,
+        "setup": "orb",
+        "entry_time": "1:35 PM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 1:35 PM, backtest 2R avg +0.10R (fired 32 of 60 sessions)"
     }
   ],
   "is_trading_day": true,
