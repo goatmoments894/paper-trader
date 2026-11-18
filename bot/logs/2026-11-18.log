@@ -54,3 +54,5 @@
 2026-11-18 09:55:21 ET  live GEN: TRIGGERED 9:55 AM at 29.99 (range 29.31-29.86), live 30.09 (2026-11-18T14:53:17)
 2026-11-18 09:55:21 ET  risk PASS [orb] GEN x30 limit 30.13 stop 29.59 target 31.21 max loss $16.2 
 2026-11-18 09:55:21 ET    PLACED [orb] GEN id 5bdd20b8-5cdb-4e84-a61a-fc1d26eb718d status pending_new
+2026-11-18 10:00:22 ET  live RYTM: triggered but 0 shares fit (cash $30.64, risk 0.04 a share)
+2026-11-18 10:00:22 ET  live SN: triggered but 0 shares fit (cash $30.64, risk 4.12 a share)
