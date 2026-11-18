@@ -170,15 +170,6 @@
       ]
     },
     {
-      "symbol": "RYTM",
-      "avg_r": 0.105,
-      "fired": 18,
-      "sessions": 41,
-      "setups": [
-        "breakout_20d"
-      ]
-    },
-    {
       "symbol": "CMCSA",
       "avg_r": 0.104,
       "fired": 32,
@@ -195,17 +186,12 @@
       "setups": [
         "bull_flag"
       ]
-    },
-    {
-      "symbol": "SN",
-      "avg_r": 0.066,
-      "fired": 34,
-      "sessions": 60,
-      "setups": [
-        "bull_flag"
-      ]
     }
   ],
   "planned": true,
-  "cancelled_unfilled": true
+  "cancelled_unfilled": true,
+  "orb_skipped": [
+    "RYTM",
+    "SN"
+  ]
 }
