@@ -125,15 +125,6 @@
       ]
     },
     {
-      "symbol": "CLX",
-      "avg_r": 0.249,
-      "fired": 31,
-      "sessions": 60,
-      "setups": [
-        "bull_flag"
-      ]
-    },
-    {
       "symbol": "TMUS",
       "avg_r": 0.197,
       "fired": 36,
@@ -145,15 +136,6 @@
     {
       "symbol": "FISV",
       "avg_r": 0.184,
-      "fired": 30,
-      "sessions": 60,
-      "setups": [
-        "bull_flag"
-      ]
-    },
-    {
-      "symbol": "HD",
-      "avg_r": 0.147,
       "fired": 30,
       "sessions": 60,
       "setups": [
@@ -192,6 +174,8 @@
   "cancelled_unfilled": true,
   "orb_skipped": [
     "RYTM",
-    "SN"
+    "SN",
+    "CLX",
+    "HD"
   ]
 }
