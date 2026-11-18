@@ -1,3 +1,50 @@
 {
-  "orders": []
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-18",
+      "symbol": "DLTR",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "3",
+      "max_loss": 4.2,
+      "id": "beac4f65-adc2-4d7b-be8b-fc6f035aaf2d",
+      "client_order_id": "pb-open-2026-11-18-DLTR-1795009745",
+      "plan": {
+        "entry": 140.23,
+        "stop": 138.83,
+        "target": 143.03,
+        "risk_per_share": 1.4,
+        "max_loss": 4.2,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.19R over 60 sessions; ref 139.675 (2026-11-17T20:59:56)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-18",
+      "symbol": "VTRS",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "2",
+      "max_loss": 0.42,
+      "id": "4b715134-d7e1-4d79-93b0-c867de5431ea",
+      "client_order_id": "pb-open-2026-11-18-VTRS-1795009745",
+      "plan": {
+        "entry": 20.53,
+        "stop": 20.32,
+        "target": 20.95,
+        "risk_per_share": 0.21,
+        "max_loss": 0.42,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.15R over 60 sessions; ref 20.445 (2026-11-17T20:59:59)"
+    }
+  ]
 }

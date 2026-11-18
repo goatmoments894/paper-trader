@@ -46,6 +46,29 @@
         "flat_by": "15:55"
       },
       "why": "buy at the open, bull_flag, backtest 2R avg +0.15R over 60 sessions; ref 20.445 (2026-11-17T20:59:59)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-18",
+      "symbol": "GEN",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "30",
+      "max_loss": 16.2,
+      "id": "5bdd20b8-5cdb-4e84-a61a-fc1d26eb718d",
+      "client_order_id": "pb-orb-2026-11-18-GEN-1795013721",
+      "plan": {
+        "entry": 30.13,
+        "stop": 29.59,
+        "target": 31.21,
+        "risk_per_share": 0.54,
+        "max_loss": 16.2,
+        "setup": "orb",
+        "entry_time": "9:55 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.09R (fired 33 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

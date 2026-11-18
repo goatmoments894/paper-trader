@@ -51,3 +51,6 @@
 2026-11-18 08:49:05 ET    PLACED [open] DLTR id beac4f65-adc2-4d7b-be8b-fc6f035aaf2d status pending_new
 2026-11-18 08:49:05 ET  risk PASS [open] VTRS x2 limit 20.53 stop 20.32 target 20.95 max loss $0.42 
 2026-11-18 08:49:05 ET    PLACED [open] VTRS id 4b715134-d7e1-4d79-93b0-c867de5431ea status pending_new
+2026-11-18 09:55:21 ET  live GEN: TRIGGERED 9:55 AM at 29.99 (range 29.31-29.86), live 30.09 (2026-11-18T14:53:17)
+2026-11-18 09:55:21 ET  risk PASS [orb] GEN x30 limit 30.13 stop 29.59 target 31.21 max loss $16.2 
+2026-11-18 09:55:21 ET    PLACED [orb] GEN id 5bdd20b8-5cdb-4e84-a61a-fc1d26eb718d status pending_new
