@@ -1,0 +1,55 @@
+2026-11-19 08:47:24 ET  plan: account PA...47 (paper), cash $71.53
+2026-11-19 08:49:22 ET  scan: Daily scan, Thu 2026-11-19 08:47 ET, closes through 2026-11-18 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 1,472 passed the liquidity filter ($5+ and 1,000,000+ shares), 3 had under 30 days; 1,469 scanned. | 410 charts matched a setup: 77 20-day closing-high breakout, 139 bull flag, 67 reclaimed the 20-day average, 133 oversold (RSI under 30), 31 oversold bounce.
+2026-11-19 08:49:22 ET  candidates (40): DIS, TGT, LOW, SPOT, RCL, TSCO, ORLY, CMG, CMCSA, CVNA, SN, EW, CAH, OMC, CBOE, FROG, CPRT, SPG, FERG, TPR, DLTR, CAKE, PCG, FE, CHTR, FWONK, BBIO, NCLH, VTRS, NBIX, SWK, VLTO, ZBH, RYTM, INSM, CELH, WING, STZ, VRNS, LUV
+2026-11-19 08:49:22 ET    DIS   open 2R +0.208R, 1R +0.203R KEEP | breakout 2R +0.032R (fired 35), 1R +0.065R drop
+2026-11-19 08:49:23 ET    TGT   open 2R -0.158R, 1R -0.127R drop | breakout 2R -0.033R (fired 31), 1R +0.001R drop
+2026-11-19 08:49:23 ET    LOW   open 2R -0.086R, 1R -0.227R drop | breakout 2R -0.094R (fired 30), 1R -0.047R drop
+2026-11-19 08:49:24 ET    SPOT  open 2R +0.186R, 1R +0.142R KEEP | breakout 2R +0.015R (fired 33), 1R -0.029R drop
+2026-11-19 08:49:24 ET    RCL   open 2R -0.175R, 1R -0.203R drop | breakout 2R +0.050R (fired 31), 1R +0.404R drop
+2026-11-19 08:49:24 ET    TSCO  open 2R -0.018R, 1R -0.084R drop | breakout 2R -0.052R (fired 35), 1R -0.133R drop
+2026-11-19 08:49:25 ET    ORLY  open 2R -0.002R, 1R +0.063R drop | breakout 2R -0.223R (fired 28), 1R -0.202R drop
+2026-11-19 08:49:25 ET    CMG   open 2R -0.156R, 1R -0.155R drop | breakout 2R +0.077R (fired 27), 1R -0.067R drop
+2026-11-19 08:49:26 ET    CMCSA open 2R -0.214R, 1R -0.307R drop | breakout 2R +0.011R (fired 32), 1R +0.162R drop
+2026-11-19 08:49:26 ET    CVNA  open 2R -0.041R, 1R -0.133R drop | breakout 2R -0.272R (fired 34), 1R -0.167R drop
+2026-11-19 08:49:27 ET    SN    open 2R -0.175R, 1R -0.119R drop | breakout 2R +0.093R (fired 35), 1R +0.001R WATCH
+2026-11-19 08:49:27 ET    EW    open 2R +0.063R, 1R -0.020R KEEP | breakout 2R +0.087R (fired 35), 1R +0.037R WATCH
+2026-11-19 08:49:28 ET    CAH   open 2R -0.113R, 1R +0.002R drop | breakout 2R -0.078R (fired 30), 1R -0.046R drop
+2026-11-19 08:49:28 ET    OMC   open 2R -0.186R, 1R -0.188R drop | breakout 2R -0.106R (fired 31), 1R -0.104R drop
+2026-11-19 08:49:29 ET    CBOE  open 2R +0.119R, 1R -0.021R KEEP | breakout 2R -0.032R (fired 30), 1R +0.181R drop
+2026-11-19 08:49:29 ET    FROG  open 2R +0.200R, 1R +0.067R KEEP | breakout 2R +0.071R (fired 39), 1R +0.078R WATCH
+2026-11-19 08:49:30 ET    CPRT  open 2R -0.150R, 1R -0.128R drop | breakout 2R +0.028R (fired 32), 1R -0.042R drop
+2026-11-19 08:49:30 ET    SPG   open 2R -0.045R, 1R -0.050R drop | breakout 2R -0.257R (fired 33), 1R -0.220R drop
+2026-11-19 08:49:31 ET    FERG  open 2R -0.103R, 1R -0.030R drop | breakout 2R -0.250R (fired 38), 1R -0.089R drop
+2026-11-19 08:49:31 ET    TPR   open 2R -0.209R, 1R -0.173R drop | breakout 2R -0.330R (fired 28), 1R -0.356R drop
+2026-11-19 08:49:32 ET    DLTR  open 2R +0.186R, 1R +0.071R KEEP | breakout 2R +0.296R (fired 32), 1R +0.087R WATCH
+2026-11-19 08:49:32 ET    CAKE  open 2R +0.221R, 1R +0.118R KEEP | breakout 2R -0.165R (fired 33), 1R -0.045R drop
+2026-11-19 08:49:33 ET    PCG   open 2R -0.203R, 1R -0.183R drop | breakout 2R +0.166R (fired 34), 1R +0.002R WATCH
+2026-11-19 08:49:33 ET    FE    open 2R -0.078R, 1R -0.047R drop | breakout 2R +0.151R (fired 34), 1R +0.134R WATCH
+2026-11-19 08:49:34 ET    CHTR  open 2R -0.295R, 1R -0.233R drop | breakout 2R -0.135R (fired 35), 1R -0.246R drop
+2026-11-19 08:49:34 ET    FWONK open 2R -0.349R, 1R -0.389R drop | breakout 2R +0.037R (fired 26), 1R -0.192R drop
+2026-11-19 08:49:34 ET    BBIO  open 2R -0.079R, 1R +0.040R drop | breakout 2R -0.117R (fired 32), 1R -0.169R drop
+2026-11-19 08:49:35 ET    NCLH  open 2R -0.254R, 1R -0.163R drop | breakout 2R -0.279R (fired 35), 1R -0.067R drop
+2026-11-19 08:49:35 ET    VTRS  open 2R +0.121R, 1R +0.028R KEEP | breakout 2R +0.035R (fired 37), 1R -0.029R drop
+2026-11-19 08:49:36 ET    NBIX  open 2R -0.234R, 1R -0.243R drop | breakout 2R -0.046R (fired 32), 1R -0.094R drop
+2026-11-19 08:49:36 ET    SWK   open 2R -0.202R, 1R -0.185R drop | breakout 2R -0.193R (fired 31), 1R -0.107R drop
+2026-11-19 08:49:37 ET    VLTO  open 2R -0.047R, 1R +0.003R drop | breakout 2R -0.256R (fired 34), 1R -0.257R drop
+2026-11-19 08:49:37 ET    ZBH   open 2R +0.152R, 1R +0.106R KEEP | breakout 2R -0.058R (fired 29), 1R -0.206R drop
+2026-11-19 08:49:38 ET    RYTM  open 2R -0.033R, 1R +0.143R drop | breakout 2R +0.047R (fired 19), 1R +0.052R drop
+2026-11-19 08:49:38 ET    INSM  open 2R -0.319R, 1R -0.233R drop | breakout 2R +0.033R (fired 32), 1R -0.074R drop
+2026-11-19 08:49:39 ET    CELH  open 2R +0.263R, 1R +0.100R KEEP | breakout 2R +0.010R (fired 36), 1R -0.153R drop
+2026-11-19 08:49:39 ET    WING  open 2R +0.000R, 1R -0.033R drop | breakout 2R +0.106R (fired 31), 1R +0.117R WATCH
+2026-11-19 08:49:39 ET    STZ   open 2R -0.005R, 1R -0.151R drop | breakout 2R -0.347R (fired 35), 1R -0.321R drop
+2026-11-19 08:49:40 ET    VRNS  open 2R +0.033R, 1R +0.124R drop | breakout 2R -0.044R (fired 33), 1R -0.127R drop
+2026-11-19 08:49:40 ET    LUV   open 2R -0.154R, 1R -0.100R drop | breakout 2R -0.039R (fired 31), 1R +0.094R drop
+2026-11-19 08:49:41 ET  intraday watchlist: DLTR (+0.30R), PCG (+0.17R), FE (+0.15R), WING (+0.11R), SN (+0.09R), EW (+0.09R), FROG (+0.07R)
+2026-11-19 08:49:41 ET    CAKE: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    DIS: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    FROG: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    SPOT: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    DLTR: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    ZBH: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    VTRS: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    CBOE: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:41 ET    EW: 0 shares fit (cash left $2.88)
+2026-11-19 08:49:42 ET  risk PASS [open] CELH x1 limit 32.88 stop 32.55 target 33.54 max loss $0.33 
+2026-11-19 08:49:42 ET    PLACED [open] CELH id 8e204ef7-5820-4f87-a7ef-9babf4365fae status pending_new

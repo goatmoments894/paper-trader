@@ -1,46 +1,45 @@
 {
-  "date": "2026-11-18",
-  "now_new_york": "2026-11-18 13:35",
+  "date": "2026-11-19",
+  "now_new_york": "2026-11-19 09:30",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "CMCSA",
+      "symbol": "CELH",
       "side": "buy",
       "kind": "entry",
       "amount": "1 shares",
-      "value_usd": 25.54,
-      "entry_ref": 25.54,
+      "value_usd": 32.88,
+      "entry_ref": 32.88,
       "entry_ref_from": "limit",
-      "stop": 25.24,
-      "target": 26.14,
-      "risk_per_share": 0.3,
-      "max_loss": 0.3,
+      "stop": 32.55,
+      "target": 33.54,
+      "risk_per_share": 0.33,
+      "max_loss": 0.33,
       "reward_risk": 2.0,
-      "fingerprint": "acc0f1cdb865fd1b",
+      "fingerprint": "ff3484a2da4e0272",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 25.54 (the limit price), stop 25.24, target 26.14: risk 0.30 a share",
-        "max loss $0.30 (limit $29.23), reward:risk 2.00 (min 1)",
-        "today before this: 4 of 8 trades, $21.08 of $97.45 daily loss"
+        "entry 32.88 (the limit price), stop 32.55, target 33.54: risk 0.33 a share",
+        "max loss $0.33 (limit $29.82), reward:risk 2.00 (min 1)",
+        "today before this: 0 of 8 trades, $0 of $99.40 daily loss"
       ]
     }
   ],
   "pass": 1,
   "block": 0,
   "warnings": [
-    "no price for GEN: valued at its cost basis $0",
-    "no price for VTRS: valued at its cost basis $0"
+    "no price for GEN: valued at its cost basis $0"
   ],
-  "cash_after": 5.66,
+  "cash_after": 38.65,
   "today": {
-    "orders_placed": 4,
-    "entries_placed": 4,
-    "loss_at_risk": 21.08,
+    "orders_placed": 0,
+    "entries_placed": 0,
+    "loss_at_risk": 0.0,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-18T18:35:21Z",
+  "checked_at": "2026-11-19T13:49:42Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }

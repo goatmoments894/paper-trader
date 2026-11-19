@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-19",
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-19",
+      "symbol": "CELH",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "1",
+      "max_loss": 0.33,
+      "id": "8e204ef7-5820-4f87-a7ef-9babf4365fae",
+      "client_order_id": "pb-open-2026-11-19-CELH-1795096182",
+      "plan": {
+        "entry": 32.88,
+        "stop": 32.55,
+        "target": 33.54,
+        "risk_per_share": 0.33,
+        "max_loss": 0.33,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.26R over 60 sessions; ref 32.75 (2026-11-18T20:59:57)"
+    }
+  ],
+  "is_trading_day": true,
+  "trading_day_checked": true,
+  "orb_watch": [
+    {
+      "symbol": "DLTR",
+      "avg_r": 0.296,
+      "fired": 32,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "PCG",
+      "avg_r": 0.166,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "FE",
+      "avg_r": 0.151,
+      "fired": 34,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    },
+    {
+      "symbol": "WING",
+      "avg_r": 0.106,
+      "fired": 31,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "SN",
+      "avg_r": 0.093,
+      "fired": 35,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d",
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "EW",
+      "avg_r": 0.087,
+      "fired": 35,
+      "sessions": 60,
+      "setups": [
+        "bull_flag"
+      ]
+    },
+    {
+      "symbol": "FROG",
+      "avg_r": 0.071,
+      "fired": 39,
+      "sessions": 60,
+      "setups": [
+        "breakout_20d"
+      ]
+    }
+  ],
+  "planned": true
+}
