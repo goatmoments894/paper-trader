@@ -1,3 +1,27 @@
 {
-  "orders": []
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-19",
+      "symbol": "CELH",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "1",
+      "max_loss": 0.33,
+      "id": "8e204ef7-5820-4f87-a7ef-9babf4365fae",
+      "client_order_id": "pb-open-2026-11-19-CELH-1795096182",
+      "plan": {
+        "entry": 32.88,
+        "stop": 32.55,
+        "target": 33.54,
+        "risk_per_share": 0.33,
+        "max_loss": 0.33,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.26R over 60 sessions; ref 32.75 (2026-11-18T20:59:57)"
+    }
+  ]
 }

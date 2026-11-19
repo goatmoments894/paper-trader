@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "CELH",
+      "symbol": "DLTR",
       "side": "buy",
-      "qty": "1",
+      "qty": "6",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "32.88",
+      "limit_price": "141.57",
       "order_class": "bracket",
-      "take_profit_limit_price": "33.54",
-      "stop_loss_stop_price": "32.55",
-      "why": "buy at the open, bull_flag, backtest 2R avg +0.26R over 60 sessions; ref 32.75 (2026-11-18T20:59:57)",
+      "take_profit_limit_price": "143.65",
+      "stop_loss_stop_price": "140.53",
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.30R (fired 32 of 60 sessions)",
       "plan": {
-        "entry": 32.88,
-        "stop": 32.55,
-        "target": 33.54,
-        "risk_per_share": 0.33,
-        "max_loss": 0.33,
-        "setup": "open",
-        "entry_time": "9:30 AM",
+        "entry": 141.57,
+        "stop": 140.53,
+        "target": 143.65,
+        "risk_per_share": 1.04,
+        "max_loss": 6.24,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
         "flat_by": "15:55"
       }
     }
