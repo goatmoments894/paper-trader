@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "DLTR",
+      "symbol": "PCG",
       "side": "buy",
-      "qty": "6",
+      "qty": "70",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "141.57",
+      "limit_price": "13.78",
       "order_class": "bracket",
-      "take_profit_limit_price": "143.65",
-      "stop_loss_stop_price": "140.53",
-      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.30R (fired 32 of 60 sessions)",
+      "take_profit_limit_price": "13.94",
+      "stop_loss_stop_price": "13.70",
+      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.17R (fired 34 of 60 sessions)",
       "plan": {
-        "entry": 141.57,
-        "stop": 140.53,
-        "target": 143.65,
-        "risk_per_share": 1.04,
-        "max_loss": 6.24,
+        "entry": 13.78,
+        "stop": 13.7,
+        "target": 13.94,
+        "risk_per_share": 0.08,
+        "max_loss": 5.6,
         "setup": "orb",
-        "entry_time": "9:50 AM",
+        "entry_time": "10:15 AM",
         "flat_by": "15:55"
       }
     }

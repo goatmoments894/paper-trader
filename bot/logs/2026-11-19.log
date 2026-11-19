@@ -56,3 +56,6 @@
 2026-11-19 09:55:20 ET  live DLTR: TRIGGERED 9:50 AM at 141.20 (range 139.89-141.18), live 141.43 (2026-11-19T14:55:01)
 2026-11-19 09:55:21 ET  risk PASS [orb] DLTR x6 limit 141.57 stop 140.53 target 143.65 max loss $6.24 
 2026-11-19 09:55:21 ET    PLACED [orb] DLTR id c899e7a5-97e2-4508-b0e1-05523e38f69e status pending_new
+2026-11-19 10:15:20 ET  live PCG: TRIGGERED 10:15 AM at 13.77 (range 13.62-13.77), live 13.77 (2026-11-19T15:15:19)
+2026-11-19 10:15:21 ET  risk PASS [orb] PCG x70 limit 13.78 stop 13.70 target 13.94 max loss $5.6 
+2026-11-19 10:15:21 ET    PLACED [orb] PCG id e0a97ac0-eb45-4dab-a4bc-211515593226 status pending_new

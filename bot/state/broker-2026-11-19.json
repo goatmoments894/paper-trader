@@ -22,6 +22,29 @@
         "flat_by": "15:55"
       },
       "why": "buy at the open, bull_flag, backtest 2R avg +0.26R over 60 sessions; ref 32.75 (2026-11-18T20:59:57)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-19",
+      "symbol": "DLTR",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "6",
+      "max_loss": 6.24,
+      "id": "c899e7a5-97e2-4508-b0e1-05523e38f69e",
+      "client_order_id": "pb-orb-2026-11-19-DLTR-1795100121",
+      "plan": {
+        "entry": 141.57,
+        "stop": 140.53,
+        "target": 143.65,
+        "risk_per_share": 1.04,
+        "max_loss": 6.24,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.30R (fired 32 of 60 sessions)"
     }
   ]
 }

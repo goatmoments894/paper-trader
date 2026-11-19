@@ -1,43 +1,43 @@
 {
   "date": "2026-11-19",
-  "now_new_york": "2026-11-19 09:55",
+  "now_new_york": "2026-11-19 10:15",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "DLTR",
+      "symbol": "PCG",
       "side": "buy",
       "kind": "entry",
-      "amount": "6 shares",
-      "value_usd": 849.42,
-      "entry_ref": 141.57,
+      "amount": "70 shares",
+      "value_usd": 964.6,
+      "entry_ref": 13.78,
       "entry_ref_from": "limit",
-      "stop": 140.53,
-      "target": 143.65,
-      "risk_per_share": 1.04,
-      "max_loss": 6.24,
+      "stop": 13.7,
+      "target": 13.94,
+      "risk_per_share": 0.08,
+      "max_loss": 5.6,
       "reward_risk": 2.0,
-      "fingerprint": "beebafd3641200f1",
+      "fingerprint": "0e45f566d9bff52e",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 141.57 (the limit price), stop 140.53, target 143.65: risk 1.04 a share",
-        "max loss $6.24 (limit $29.82), reward:risk 2.00 (min 1)",
-        "today before this: 1 of 8 trades, $0.33 of $99.40 daily loss"
+        "entry 13.78 (the limit price), stop 13.70, target 13.94: risk 0.08 a share",
+        "max loss $5.60 (limit $29.82), reward:risk 2.00 (min 1)",
+        "today before this: 2 of 8 trades, $6.57 of $99.40 daily loss"
       ]
     }
   ],
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 135.28,
+  "cash_after": 12.91,
   "today": {
-    "orders_placed": 1,
-    "entries_placed": 1,
-    "loss_at_risk": 0.33,
+    "orders_placed": 2,
+    "entries_placed": 2,
+    "loss_at_risk": 6.57,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-19T14:55:21Z",
+  "checked_at": "2026-11-19T15:15:21Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }

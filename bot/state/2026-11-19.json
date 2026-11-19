@@ -46,6 +46,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.30R (fired 32 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-19",
+      "symbol": "PCG",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "70",
+      "max_loss": 5.6,
+      "id": "e0a97ac0-eb45-4dab-a4bc-211515593226",
+      "client_order_id": "pb-orb-2026-11-19-PCG-1795101321",
+      "plan": {
+        "entry": 13.78,
+        "stop": 13.7,
+        "target": 13.94,
+        "risk_per_share": 0.08,
+        "max_loss": 5.6,
+        "setup": "orb",
+        "entry_time": "10:15 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.17R (fired 34 of 60 sessions)"
     }
   ],
   "is_trading_day": true,
