@@ -102,15 +102,6 @@
       ]
     },
     {
-      "symbol": "WING",
-      "avg_r": 0.106,
-      "fired": 31,
-      "sessions": 60,
-      "setups": [
-        "bull_flag"
-      ]
-    },
-    {
       "symbol": "SN",
       "avg_r": 0.093,
       "fired": 35,
@@ -140,5 +131,8 @@
     }
   ],
   "planned": true,
-  "cancelled_unfilled": true
+  "cancelled_unfilled": true,
+  "orb_skipped": [
+    "WING"
+  ]
 }
