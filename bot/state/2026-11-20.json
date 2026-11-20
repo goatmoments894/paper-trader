@@ -262,5 +262,6 @@
     }
   ],
   "planned": true,
-  "cancelled_unfilled": true
+  "cancelled_unfilled": true,
+  "flat": true
 }
