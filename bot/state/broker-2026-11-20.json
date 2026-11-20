@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "status": "placed",
+      "status": "cancelled",
       "date": "2026-11-20",
       "symbol": "TW",
       "side": "buy",
@@ -45,6 +45,29 @@
         "flat_by": "15:55"
       },
       "why": "buy at the open, bull_flag, backtest 2R avg +0.15R over 60 sessions; ref 13.33 (2026-11-19T20:59:59)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-20",
+      "symbol": "SARO",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "18",
+      "max_loss": 3.6,
+      "id": "1d1a9199-f1ee-4727-a55b-9387834e6461",
+      "client_order_id": "pb-orb-2026-11-20-SARO-1795186223",
+      "plan": {
+        "entry": 27.17,
+        "stop": 26.97,
+        "target": 27.57,
+        "risk_per_share": 0.2,
+        "max_loss": 3.6,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.19R (fired 23 of 60 sessions)"
     }
   ]
 }

@@ -1,45 +1,46 @@
 {
   "date": "2026-11-20",
-  "now_new_york": "2026-11-20 09:50",
+  "now_new_york": "2026-11-20 10:05",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "SARO",
+      "symbol": "LQDA",
       "side": "buy",
       "kind": "entry",
-      "amount": "18 shares",
-      "value_usd": 489.06,
-      "entry_ref": 27.17,
+      "amount": "6 shares",
+      "value_usd": 340.02,
+      "entry_ref": 56.67,
       "entry_ref_from": "limit",
-      "stop": 26.97,
-      "target": 27.57,
-      "risk_per_share": 0.2,
-      "max_loss": 3.6,
+      "stop": 56.39,
+      "target": 57.23,
+      "risk_per_share": 0.28,
+      "max_loss": 1.68,
       "reward_risk": 2.0,
-      "fingerprint": "23d333c2d9282d83",
+      "fingerprint": "423289e758cda2ac",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 27.17 (the limit price), stop 26.97, target 27.57: risk 0.20 a share",
-        "max loss $3.60 (limit $29.13), reward:risk 2.00 (min 1)",
-        "today before this: 2 of 8 trades, $4.72 of $97.11 daily loss"
+        "entry 56.67 (the limit price), stop 56.39, target 57.23: risk 0.28 a share",
+        "max loss $1.68 (limit $29.13), reward:risk 2.00 (min 1)",
+        "today before this: 2 of 8 trades, $4.51 of $97.11 daily loss"
       ]
     }
   ],
   "pass": 1,
   "block": 0,
   "warnings": [
-    "no price for ADMA: valued at its cost basis $0"
+    "no price for ADMA: valued at its cost basis $0",
+    "no price for SARO: valued at its cost basis $0"
   ],
-  "cash_after": 6.84,
+  "cash_after": 49.53,
   "today": {
     "orders_placed": 2,
     "entries_placed": 2,
-    "loss_at_risk": 4.72,
+    "loss_at_risk": 4.51,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-20T14:50:23Z",
+  "checked_at": "2026-11-20T15:05:22Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }

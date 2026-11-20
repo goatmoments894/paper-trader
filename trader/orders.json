@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "SARO",
+      "symbol": "LQDA",
       "side": "buy",
-      "qty": "18",
+      "qty": "6",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "27.17",
+      "limit_price": "56.67",
       "order_class": "bracket",
-      "take_profit_limit_price": "27.57",
-      "stop_loss_stop_price": "26.97",
-      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.19R (fired 23 of 60 sessions)",
+      "take_profit_limit_price": "57.23",
+      "stop_loss_stop_price": "56.39",
+      "why": "opening-range breakout at 10:00 AM, backtest 2R avg +0.08R (fired 34 of 59 sessions)",
       "plan": {
-        "entry": 27.17,
-        "stop": 26.97,
-        "target": 27.57,
-        "risk_per_share": 0.2,
-        "max_loss": 3.6,
+        "entry": 56.67,
+        "stop": 56.39,
+        "target": 57.23,
+        "risk_per_share": 0.28,
+        "max_loss": 1.68,
         "setup": "orb",
-        "entry_time": "9:50 AM",
+        "entry_time": "10:00 AM",
         "flat_by": "15:55"
       }
     }

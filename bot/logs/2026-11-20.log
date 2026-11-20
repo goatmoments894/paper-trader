@@ -55,3 +55,6 @@
 2026-11-20 09:50:23 ET    PLACED [orb] SARO id 1d1a9199-f1ee-4727-a55b-9387834e6461 status pending_new
 2026-11-20 10:00:20 ET  cancel: open TW buy not filled, cancelled
 2026-11-20 10:00:23 ET  live LQDA: triggered but 0 shares fit (cash $7.58, risk 0.80 a share)
+2026-11-20 10:05:22 ET  live LQDA: TRIGGERED 10:00 AM at 57.10 (range 55.78-56.99), live 56.61 (2026-11-20T15:04:58)
+2026-11-20 10:05:22 ET  risk PASS [orb] LQDA x6 limit 56.67 stop 56.39 target 57.23 max loss $1.68 
+2026-11-20 10:05:22 ET    PLACED [orb] LQDA id 33b3c6a4-21fa-487e-8ee4-ebdea3578421 status pending_new
