@@ -50,3 +50,6 @@
 2026-11-20 08:48:30 ET    PLACED [open] TW id 30ef6311-04c4-4753-a278-8c5bd48e0bb4 status pending_new
 2026-11-20 08:48:30 ET  risk PASS [open] ADMA x7 limit 13.38 stop 13.25 target 13.64 max loss $0.91 
 2026-11-20 08:48:30 ET    PLACED [open] ADMA id 7c97b5e4-11ec-4dbb-b363-94adc4bffea7 status pending_new
+2026-11-20 09:50:22 ET  live SARO: TRIGGERED 9:50 AM at 27.16 (range 26.81-27.13), live 27.14 (2026-11-20T14:49:55)
+2026-11-20 09:50:23 ET  risk PASS [orb] SARO x18 limit 27.17 stop 26.97 target 27.57 max loss $3.6 
+2026-11-20 09:50:23 ET    PLACED [orb] SARO id 1d1a9199-f1ee-4727-a55b-9387834e6461 status pending_new

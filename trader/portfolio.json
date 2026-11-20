@@ -1,4 +1,9 @@
 {
-  "cash": 971.14,
-  "positions": []
+  "cash": 495.9,
+  "positions": [
+    {
+      "symbol": "ADMA",
+      "qty": 7.0
+    }
+  ]
 }
