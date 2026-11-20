@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "LQDA",
+      "symbol": "GME",
       "side": "buy",
-      "qty": "6",
+      "qty": "1",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "56.67",
+      "limit_price": "27.50",
       "order_class": "bracket",
-      "take_profit_limit_price": "57.23",
-      "stop_loss_stop_price": "56.39",
-      "why": "opening-range breakout at 10:00 AM, backtest 2R avg +0.08R (fired 34 of 59 sessions)",
+      "take_profit_limit_price": "28.28",
+      "stop_loss_stop_price": "27.11",
+      "why": "opening-range breakout at 10:10 AM, backtest 2R avg +0.20R (fired 38 of 60 sessions)",
       "plan": {
-        "entry": 56.67,
-        "stop": 56.39,
-        "target": 57.23,
-        "risk_per_share": 0.28,
-        "max_loss": 1.68,
+        "entry": 27.5,
+        "stop": 27.11,
+        "target": 28.28,
+        "risk_per_share": 0.39,
+        "max_loss": 0.39,
         "setup": "orb",
-        "entry_time": "10:00 AM",
+        "entry_time": "10:10 AM",
         "flat_by": "15:55"
       }
     }

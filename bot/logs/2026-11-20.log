@@ -58,3 +58,6 @@
 2026-11-20 10:05:22 ET  live LQDA: TRIGGERED 10:00 AM at 57.10 (range 55.78-56.99), live 56.61 (2026-11-20T15:04:58)
 2026-11-20 10:05:22 ET  risk PASS [orb] LQDA x6 limit 56.67 stop 56.39 target 57.23 max loss $1.68 
 2026-11-20 10:05:22 ET    PLACED [orb] LQDA id 33b3c6a4-21fa-487e-8ee4-ebdea3578421 status pending_new
+2026-11-20 10:10:21 ET  live GME: TRIGGERED 10:10 AM at 27.51 (range 26.74-27.49), live 27.47 (2026-11-20T15:10:15)
+2026-11-20 10:10:22 ET  risk PASS [orb] GME x1 limit 27.50 stop 27.11 target 28.28 max loss $0.39 
+2026-11-20 10:10:22 ET    PLACED [orb] GME id 3bc3ea0a-ed26-420e-9253-1133553fa712 status pending_new
