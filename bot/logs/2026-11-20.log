@@ -61,3 +61,6 @@
 2026-11-20 10:10:21 ET  live GME: TRIGGERED 10:10 AM at 27.51 (range 26.74-27.49), live 27.47 (2026-11-20T15:10:15)
 2026-11-20 10:10:22 ET  risk PASS [orb] GME x1 limit 27.50 stop 27.11 target 28.28 max loss $0.39 
 2026-11-20 10:10:22 ET    PLACED [orb] GME id 3bc3ea0a-ed26-420e-9253-1133553fa712 status pending_new
+2026-11-20 10:15:20 ET  live EIX: TRIGGERED 10:15 AM at 63.28 (range 62.76-63.28), live 63.27 (2026-11-20T15:14:28)
+2026-11-20 10:15:22 ET  risk PASS [orb] EIX x13 limit 63.33 stop 63.02 target 63.95 max loss $4.03 
+2026-11-20 10:15:22 ET    PLACED [orb] EIX id 7de724e9-ad23-4fd9-937a-54541cbecb00 status pending_new

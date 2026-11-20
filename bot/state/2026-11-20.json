@@ -115,6 +115,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 10:10 AM, backtest 2R avg +0.20R (fired 38 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-20",
+      "symbol": "EIX",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "13",
+      "max_loss": 4.03,
+      "id": "7de724e9-ad23-4fd9-937a-54541cbecb00",
+      "client_order_id": "pb-orb-2026-11-20-EIX-1795187722",
+      "plan": {
+        "entry": 63.33,
+        "stop": 63.02,
+        "target": 63.95,
+        "risk_per_share": 0.31,
+        "max_loss": 4.03,
+        "setup": "orb",
+        "entry_time": "10:15 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.38R (fired 33 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

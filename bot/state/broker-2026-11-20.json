@@ -91,6 +91,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 10:00 AM, backtest 2R avg +0.08R (fired 34 of 59 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-20",
+      "symbol": "GME",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "1",
+      "max_loss": 0.39,
+      "id": "3bc3ea0a-ed26-420e-9253-1133553fa712",
+      "client_order_id": "pb-orb-2026-11-20-GME-1795187422",
+      "plan": {
+        "entry": 27.5,
+        "stop": 27.11,
+        "target": 28.28,
+        "risk_per_share": 0.39,
+        "max_loss": 0.39,
+        "setup": "orb",
+        "entry_time": "10:10 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:10 AM, backtest 2R avg +0.20R (fired 38 of 60 sessions)"
     }
   ]
 }

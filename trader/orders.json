@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "GME",
+      "symbol": "EIX",
       "side": "buy",
-      "qty": "1",
+      "qty": "13",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "27.50",
+      "limit_price": "63.33",
       "order_class": "bracket",
-      "take_profit_limit_price": "28.28",
-      "stop_loss_stop_price": "27.11",
-      "why": "opening-range breakout at 10:10 AM, backtest 2R avg +0.20R (fired 38 of 60 sessions)",
+      "take_profit_limit_price": "63.95",
+      "stop_loss_stop_price": "63.02",
+      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.38R (fired 33 of 60 sessions)",
       "plan": {
-        "entry": 27.5,
-        "stop": 27.11,
-        "target": 28.28,
-        "risk_per_share": 0.39,
-        "max_loss": 0.39,
+        "entry": 63.33,
+        "stop": 63.02,
+        "target": 63.95,
+        "risk_per_share": 0.31,
+        "max_loss": 4.03,
         "setup": "orb",
-        "entry_time": "10:10 AM",
+        "entry_time": "10:15 AM",
         "flat_by": "15:55"
       }
     }
