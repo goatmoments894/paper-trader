@@ -263,5 +263,6 @@
   ],
   "planned": true,
   "cancelled_unfilled": true,
-  "flat": true
+  "flat": true,
+  "reported": true
 }
