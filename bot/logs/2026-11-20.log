@@ -53,3 +53,5 @@
 2026-11-20 09:50:22 ET  live SARO: TRIGGERED 9:50 AM at 27.16 (range 26.81-27.13), live 27.14 (2026-11-20T14:49:55)
 2026-11-20 09:50:23 ET  risk PASS [orb] SARO x18 limit 27.17 stop 26.97 target 27.57 max loss $3.6 
 2026-11-20 09:50:23 ET    PLACED [orb] SARO id 1d1a9199-f1ee-4727-a55b-9387834e6461 status pending_new
+2026-11-20 10:00:20 ET  cancel: open TW buy not filled, cancelled
+2026-11-20 10:00:23 ET  live LQDA: triggered but 0 shares fit (cash $7.58, risk 0.80 a share)

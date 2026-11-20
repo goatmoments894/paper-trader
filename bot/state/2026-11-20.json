@@ -2,7 +2,7 @@
   "date": "2026-11-20",
   "orders": [
     {
-      "status": "placed",
+      "status": "cancelled",
       "date": "2026-11-20",
       "symbol": "TW",
       "side": "buy",
@@ -192,5 +192,6 @@
       ]
     }
   ],
-  "planned": true
+  "planned": true,
+  "cancelled_unfilled": true
 }
