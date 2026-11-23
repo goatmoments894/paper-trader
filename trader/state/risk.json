@@ -1,45 +1,45 @@
 {
   "date": "2026-11-23",
-  "now_new_york": "2026-11-23 10:05",
+  "now_new_york": "2026-11-23 10:20",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "YUMC",
+      "symbol": "PGNY",
       "side": "buy",
       "kind": "entry",
-      "amount": "10 shares",
-      "value_usd": 500.9,
-      "entry_ref": 50.09,
+      "amount": "12 shares",
+      "value_usd": 429.12,
+      "entry_ref": 35.76,
       "entry_ref_from": "limit",
-      "stop": 49.69,
-      "target": 50.89,
-      "risk_per_share": 0.4,
-      "max_loss": 4.0,
+      "stop": 35.52,
+      "target": 36.24,
+      "risk_per_share": 0.24,
+      "max_loss": 2.88,
       "reward_risk": 2.0,
-      "fingerprint": "bdd2b7c108a91400",
+      "fingerprint": "a30988f8e625b705",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 50.09 (the limit price), stop 49.69, target 50.89: risk 0.40 a share",
-        "max loss $4 (limit $28.84), reward:risk 2.00 (min 1)",
-        "today before this: 1 of 8 trades, $2.04 of $96.12 daily loss"
+        "entry 35.76 (the limit price), stop 35.52, target 36.24: risk 0.24 a share",
+        "max loss $2.88 (limit $28.84), reward:risk 2.00 (min 1)",
+        "today before this: 2 of 8 trades, $6.04 of $96.12 daily loss"
       ]
     }
   ],
   "pass": 1,
   "block": 0,
   "warnings": [
-    "no price for MIAX: valued at its cost basis $0"
+    "no price for YUMC: valued at its cost basis $0"
   ],
-  "cash_after": 13.43,
+  "cash_after": 27.47,
   "today": {
-    "orders_placed": 1,
-    "entries_placed": 1,
-    "loss_at_risk": 2.04,
+    "orders_placed": 2,
+    "entries_placed": 2,
+    "loss_at_risk": 6.04,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-23T15:05:21Z",
+  "checked_at": "2026-11-23T15:20:21Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }

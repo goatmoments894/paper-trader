@@ -69,6 +69,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.25R (fired 19 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-23",
+      "symbol": "PGNY",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "12",
+      "max_loss": 2.88,
+      "id": "85b39e02-7e15-4bb1-bcff-589406825fb4",
+      "client_order_id": "pb-orb-2026-11-23-PGNY-1795447221",
+      "plan": {
+        "entry": 35.76,
+        "stop": 35.52,
+        "target": 36.24,
+        "risk_per_share": 0.24,
+        "max_loss": 2.88,
+        "setup": "orb",
+        "entry_time": "10:15 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.21R (fired 30 of 59 sessions)"
     }
   ],
   "is_trading_day": true,

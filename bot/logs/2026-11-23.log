@@ -43,3 +43,6 @@
 2026-11-23 10:05:20 ET  live YUMC: TRIGGERED 9:55 AM at 50.04 (range 49.35-50.03), live 50.04 (2026-11-23T15:01:43)
 2026-11-23 10:05:21 ET  risk PASS [orb] YUMC x10 limit 50.09 stop 49.69 target 50.89 max loss $4.0 
 2026-11-23 10:05:21 ET    PLACED [orb] YUMC id e7041526-a9e5-412c-b771-6ac5fb89357a status pending_new
+2026-11-23 10:20:20 ET  live PGNY: TRIGGERED 10:15 AM at 35.71 (range 35.38-35.66), live 35.72 (2026-11-23T15:15:09)
+2026-11-23 10:20:21 ET  risk PASS [orb] PGNY x12 limit 35.76 stop 35.52 target 36.24 max loss $2.88 
+2026-11-23 10:20:21 ET    PLACED [orb] PGNY id 85b39e02-7e15-4bb1-bcff-589406825fb4 status pending_new
