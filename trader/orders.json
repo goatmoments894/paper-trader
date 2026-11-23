@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "MIAX",
+      "symbol": "YUMC",
       "side": "buy",
-      "qty": "12",
+      "qty": "10",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "37.33",
+      "limit_price": "50.09",
       "order_class": "bracket",
-      "take_profit_limit_price": "37.67",
-      "stop_loss_stop_price": "37.16",
-      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.26R (fired 28 of 60 sessions)",
+      "take_profit_limit_price": "50.89",
+      "stop_loss_stop_price": "49.69",
+      "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.25R (fired 19 of 60 sessions)",
       "plan": {
-        "entry": 37.33,
-        "stop": 37.16,
-        "target": 37.67,
-        "risk_per_share": 0.17,
-        "max_loss": 2.04,
+        "entry": 50.09,
+        "stop": 49.69,
+        "target": 50.89,
+        "risk_per_share": 0.4,
+        "max_loss": 4.0,
         "setup": "orb",
-        "entry_time": "9:50 AM",
+        "entry_time": "9:55 AM",
         "flat_by": "15:55"
       }
     }

@@ -46,6 +46,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.26R (fired 28 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-23",
+      "symbol": "YUMC",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "10",
+      "max_loss": 4.0,
+      "id": "e7041526-a9e5-412c-b771-6ac5fb89357a",
+      "client_order_id": "pb-orb-2026-11-23-YUMC-1795446321",
+      "plan": {
+        "entry": 50.09,
+        "stop": 49.69,
+        "target": 50.89,
+        "risk_per_share": 0.4,
+        "max_loss": 4.0,
+        "setup": "orb",
+        "entry_time": "9:55 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:55 AM, backtest 2R avg +0.25R (fired 19 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

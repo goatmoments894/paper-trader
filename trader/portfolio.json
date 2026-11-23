@@ -1,4 +1,9 @@
 {
-  "cash": 483.35,
-  "positions": []
+  "cash": 514.33,
+  "positions": [
+    {
+      "symbol": "MIAX",
+      "qty": 12.0
+    }
+  ]
 }

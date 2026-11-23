@@ -40,3 +40,6 @@
 2026-11-23 09:55:21 ET    PLACED [orb] MIAX id 15efc458-d4ed-4cab-a63e-2054fd584631 status pending_new
 2026-11-23 10:00:20 ET  cancel: open PRVA buy not filled, cancelled
 2026-11-23 10:00:20 ET  live YUMC: triggered but 0 shares fit (cash $36.47, risk 0.40 a share)
+2026-11-23 10:05:20 ET  live YUMC: TRIGGERED 9:55 AM at 50.04 (range 49.35-50.03), live 50.04 (2026-11-23T15:01:43)
+2026-11-23 10:05:21 ET  risk PASS [orb] YUMC x10 limit 50.09 stop 49.69 target 50.89 max loss $4.0 
+2026-11-23 10:05:21 ET    PLACED [orb] YUMC id e7041526-a9e5-412c-b771-6ac5fb89357a status pending_new
