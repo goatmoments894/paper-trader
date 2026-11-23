@@ -1,6 +1,10 @@
 {
-  "cash": 456.59,
+  "cash": 29.27,
   "positions": [
+    {
+      "symbol": "PGNY",
+      "qty": 12.0
+    },
     {
       "symbol": "YUMC",
       "qty": 10.0

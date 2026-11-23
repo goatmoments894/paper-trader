@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "PGNY",
+      "symbol": "ADMA",
       "side": "buy",
-      "qty": "12",
+      "qty": "2",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "35.76",
+      "limit_price": "13.45",
       "order_class": "bracket",
-      "take_profit_limit_price": "36.24",
-      "stop_loss_stop_price": "35.52",
-      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.21R (fired 30 of 59 sessions)",
+      "take_profit_limit_price": "13.77",
+      "stop_loss_stop_price": "13.29",
+      "why": "opening-range breakout at 10:25 AM, backtest 2R avg +0.23R (fired 40 of 60 sessions)",
       "plan": {
-        "entry": 35.76,
-        "stop": 35.52,
-        "target": 36.24,
-        "risk_per_share": 0.24,
-        "max_loss": 2.88,
+        "entry": 13.45,
+        "stop": 13.29,
+        "target": 13.77,
+        "risk_per_share": 0.16,
+        "max_loss": 0.32,
         "setup": "orb",
-        "entry_time": "10:15 AM",
+        "entry_time": "10:25 AM",
         "flat_by": "15:55"
       }
     }

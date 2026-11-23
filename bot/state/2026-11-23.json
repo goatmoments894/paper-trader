@@ -92,6 +92,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.21R (fired 30 of 59 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-23",
+      "symbol": "ADMA",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "2",
+      "max_loss": 0.32,
+      "id": "700ec30c-45f5-4af7-af29-ff3a58ab8b6a",
+      "client_order_id": "pb-orb-2026-11-23-ADMA-1795447821",
+      "plan": {
+        "entry": 13.45,
+        "stop": 13.29,
+        "target": 13.77,
+        "risk_per_share": 0.16,
+        "max_loss": 0.32,
+        "setup": "orb",
+        "entry_time": "10:25 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 10:25 AM, backtest 2R avg +0.23R (fired 40 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

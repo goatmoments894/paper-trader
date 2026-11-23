@@ -46,3 +46,6 @@
 2026-11-23 10:20:20 ET  live PGNY: TRIGGERED 10:15 AM at 35.71 (range 35.38-35.66), live 35.72 (2026-11-23T15:15:09)
 2026-11-23 10:20:21 ET  risk PASS [orb] PGNY x12 limit 35.76 stop 35.52 target 36.24 max loss $2.88 
 2026-11-23 10:20:21 ET    PLACED [orb] PGNY id 85b39e02-7e15-4bb1-bcff-589406825fb4 status pending_new
+2026-11-23 10:30:20 ET  live ADMA: TRIGGERED 10:25 AM at 13.40 (range 13.19-13.38), live 13.44 (2026-11-23T15:30:11)
+2026-11-23 10:30:21 ET  risk PASS [orb] ADMA x2 limit 13.45 stop 13.29 target 13.77 max loss $0.32 
+2026-11-23 10:30:21 ET    PLACED [orb] ADMA id 700ec30c-45f5-4af7-af29-ff3a58ab8b6a status pending_new

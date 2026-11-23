@@ -1,45 +1,46 @@
 {
   "date": "2026-11-23",
-  "now_new_york": "2026-11-23 10:20",
+  "now_new_york": "2026-11-23 10:30",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "PGNY",
+      "symbol": "ADMA",
       "side": "buy",
       "kind": "entry",
-      "amount": "12 shares",
-      "value_usd": 429.12,
-      "entry_ref": 35.76,
+      "amount": "2 shares",
+      "value_usd": 26.9,
+      "entry_ref": 13.45,
       "entry_ref_from": "limit",
-      "stop": 35.52,
-      "target": 36.24,
-      "risk_per_share": 0.24,
-      "max_loss": 2.88,
+      "stop": 13.29,
+      "target": 13.77,
+      "risk_per_share": 0.16,
+      "max_loss": 0.32,
       "reward_risk": 2.0,
-      "fingerprint": "a30988f8e625b705",
+      "fingerprint": "e2d76962113c5379",
       "verdict": "PASS",
       "reasons": [],
       "warnings": [],
       "info": [
-        "entry 35.76 (the limit price), stop 35.52, target 36.24: risk 0.24 a share",
-        "max loss $2.88 (limit $28.84), reward:risk 2.00 (min 1)",
-        "today before this: 2 of 8 trades, $6.04 of $96.12 daily loss"
+        "entry 13.45 (the limit price), stop 13.29, target 13.77: risk 0.16 a share",
+        "max loss $0.32 (limit $28.84), reward:risk 2.00 (min 1)",
+        "today before this: 3 of 8 trades, $8.92 of $96.12 daily loss"
       ]
     }
   ],
   "pass": 1,
   "block": 0,
   "warnings": [
+    "no price for PGNY: valued at its cost basis $0",
     "no price for YUMC: valued at its cost basis $0"
   ],
-  "cash_after": 27.47,
+  "cash_after": 2.37,
   "today": {
-    "orders_placed": 2,
-    "entries_placed": 2,
-    "loss_at_risk": 6.04,
+    "orders_placed": 3,
+    "entries_placed": 3,
+    "loss_at_risk": 8.92,
     "day_trades_5d": null
   },
-  "checked_at": "2026-11-23T15:20:21Z",
+  "checked_at": "2026-11-23T15:30:21Z",
   "orders_file": "/home/runner/work/paper-trader/paper-trader/trader/orders.json"
 }
