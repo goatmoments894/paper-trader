@@ -52,3 +52,6 @@
 2026-11-23 13:10:20 ET  live CMG: TRIGGERED 1:10 PM at 36.01 (range 35.50-36.00), live 36.01 (2026-11-23T18:09:55)
 2026-11-23 13:10:21 ET  risk PASS [orb] CMG x11 limit 36.04 stop 35.75 target 36.62 max loss $3.19 
 2026-11-23 13:10:21 ET    PLACED [orb] CMG id adef6dd2-63c3-4b24-843d-d0207ca0c9d8 status pending_new
+2026-11-23 14:10:20 ET  live PENN: TRIGGERED 2:10 PM at 18.34 (range 18.05-18.33), live 18.33 (2026-11-23T19:10:13)
+2026-11-23 14:10:21 ET  risk PASS [orb] PENN x1 limit 18.35 stop 18.19 target 18.67 max loss $0.16 
+2026-11-23 14:10:21 ET    PLACED [orb] PENN id fe3833bd-59a1-469a-8e97-854ea2c47cbf status pending_new

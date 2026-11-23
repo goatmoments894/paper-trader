@@ -138,6 +138,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 1:10 PM, backtest 2R avg +0.12R (fired 25 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-23",
+      "symbol": "PENN",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "1",
+      "max_loss": 0.16,
+      "id": "fe3833bd-59a1-469a-8e97-854ea2c47cbf",
+      "client_order_id": "pb-orb-2026-11-23-PENN-1795461021",
+      "plan": {
+        "entry": 18.35,
+        "stop": 18.19,
+        "target": 18.67,
+        "risk_per_share": 0.16,
+        "max_loss": 0.16,
+        "setup": "orb",
+        "entry_time": "2:10 PM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 2:10 PM, backtest 2R avg +0.21R (fired 34 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

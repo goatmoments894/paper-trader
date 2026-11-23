@@ -1,9 +1,13 @@
 {
-  "cash": 428.13,
+  "cash": 32.02,
   "positions": [
     {
       "symbol": "ADMA",
       "qty": 2.0
+    },
+    {
+      "symbol": "CMG",
+      "qty": 11.0
     },
     {
       "symbol": "YUMC",
