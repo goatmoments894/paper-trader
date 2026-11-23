@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "PRVA",
+      "symbol": "MIAX",
       "side": "buy",
-      "qty": "19",
+      "qty": "12",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "25.15",
+      "limit_price": "37.33",
       "order_class": "bracket",
-      "take_profit_limit_price": "25.65",
-      "stop_loss_stop_price": "24.90",
-      "why": "buy at the open, bull_flag, backtest 2R avg +0.29R over 60 sessions; ref 25.05 (2026-11-20T20:59:59)",
+      "take_profit_limit_price": "37.67",
+      "stop_loss_stop_price": "37.16",
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.26R (fired 28 of 60 sessions)",
       "plan": {
-        "entry": 25.15,
-        "stop": 24.9,
-        "target": 25.65,
-        "risk_per_share": 0.25,
-        "max_loss": 4.75,
-        "setup": "open",
-        "entry_time": "9:30 AM",
+        "entry": 37.33,
+        "stop": 37.16,
+        "target": 37.67,
+        "risk_per_share": 0.17,
+        "max_loss": 2.04,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
         "flat_by": "15:55"
       }
     }

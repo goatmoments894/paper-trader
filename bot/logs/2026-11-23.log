@@ -35,3 +35,6 @@
 2026-11-23 08:55:42 ET    PENN: 0 shares fit (cash left $2.76)
 2026-11-23 08:55:42 ET  risk PASS [open] PRVA x19 limit 25.15 stop 24.90 target 25.65 max loss $4.75 
 2026-11-23 08:55:42 ET    PLACED [open] PRVA id 499e9551-7be7-40d4-ac0b-0e6d6188d448 status pending_new
+2026-11-23 09:55:20 ET  live MIAX: TRIGGERED 9:50 AM at 37.51 (range 36.97-37.35), live 37.29 (2026-11-23T14:51:48)
+2026-11-23 09:55:21 ET  risk PASS [orb] MIAX x12 limit 37.33 stop 37.16 target 37.67 max loss $2.04 
+2026-11-23 09:55:21 ET    PLACED [orb] MIAX id 15efc458-d4ed-4cab-a63e-2054fd584631 status pending_new

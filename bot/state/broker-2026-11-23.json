@@ -1,3 +1,27 @@
 {
-  "orders": []
+  "orders": [
+    {
+      "status": "placed",
+      "date": "2026-11-23",
+      "symbol": "PRVA",
+      "side": "buy",
+      "kind": "entry",
+      "how": "open",
+      "qty": "19",
+      "max_loss": 4.75,
+      "id": "499e9551-7be7-40d4-ac0b-0e6d6188d448",
+      "client_order_id": "pb-open-2026-11-23-PRVA-1795442142",
+      "plan": {
+        "entry": 25.15,
+        "stop": 24.9,
+        "target": 25.65,
+        "risk_per_share": 0.25,
+        "max_loss": 4.75,
+        "setup": "open",
+        "entry_time": "9:30 AM",
+        "flat_by": "15:55"
+      },
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.29R over 60 sessions; ref 25.05 (2026-11-20T20:59:59)"
+    }
+  ]
 }

@@ -23,6 +23,29 @@
         "flat_by": "15:55"
       },
       "why": "buy at the open, bull_flag, backtest 2R avg +0.29R over 60 sessions; ref 25.05 (2026-11-20T20:59:59)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-23",
+      "symbol": "MIAX",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "12",
+      "max_loss": 2.04,
+      "id": "15efc458-d4ed-4cab-a63e-2054fd584631",
+      "client_order_id": "pb-orb-2026-11-23-MIAX-1795445721",
+      "plan": {
+        "entry": 37.33,
+        "stop": 37.16,
+        "target": 37.67,
+        "risk_per_share": 0.17,
+        "max_loss": 2.04,
+        "setup": "orb",
+        "entry_time": "9:50 AM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 9:50 AM, backtest 2R avg +0.26R (fired 28 of 60 sessions)"
     }
   ],
   "is_trading_day": true,
