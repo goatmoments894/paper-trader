@@ -1,13 +1,4 @@
 {
-  "cash": 845.77,
-  "positions": [
-    {
-      "symbol": "ADMA",
-      "qty": 7.0
-    },
-    {
-      "symbol": "GME",
-      "qty": 1.0
-    }
-  ]
+  "cash": 961.21,
+  "positions": []
 }

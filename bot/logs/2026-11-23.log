@@ -1,0 +1,37 @@
+2026-11-23 08:53:29 ET  plan: account PA...47 (paper), cash $961.21
+2026-11-23 08:55:29 ET  scan: Daily scan, Mon 2026-11-23 08:53 ET, closes through 2026-11-20 (Yahoo spark, daily closes only). | Fetched 5,930 of 5,930 charts. 1,622 passed the liquidity filter ($5+ and 1,000,000+ shares), 3 had under 30 days; 1,619 scanned. | 384 charts matched a setup: 12 20-day closing-high breakout, 38 bull flag, 25 reclaimed the 20-day average, 307 oversold (RSI under 30), 16 oversold bounce.
+2026-11-23 08:55:29 ET  candidates (26): CMG, CAH, BDX, ROL, ELAN, ADC, PFGC, HRL, CALM, MIRM, AEO, LQDA, SARO, YUMC, TAK, RCI, VNT, COLD, JAN, PENN, PRVA, MIAX, PGNY, ADMA, HLF, WWW
+2026-11-23 08:55:29 ET    CMG   open 2R -0.156R, 1R -0.189R drop | breakout 2R +0.118R (fired 25), 1R -0.037R WATCH
+2026-11-23 08:55:29 ET    CAH   open 2R -0.139R, 1R -0.005R drop | breakout 2R -0.078R (fired 30), 1R -0.046R drop
+2026-11-23 08:55:30 ET    BDX   open 2R +0.168R, 1R +0.024R KEEP | breakout 2R -0.095R (fired 32), 1R -0.099R drop
+2026-11-23 08:55:30 ET    ROL   open 2R -0.128R, 1R +0.000R drop | breakout 2R -0.118R (fired 35), 1R +0.109R drop
+2026-11-23 08:55:31 ET    ELAN  open 2R -0.113R, 1R -0.023R drop | breakout 2R -0.024R (fired 30), 1R +0.120R drop
+2026-11-23 08:55:31 ET    ADC   open 2R -0.127R, 1R -0.143R drop | breakout 2R -0.393R (fired 34), 1R -0.310R drop
+2026-11-23 08:55:32 ET    PFGC  open 2R -0.061R, 1R +0.062R drop | breakout 2R -0.154R (fired 35), 1R -0.144R drop
+2026-11-23 08:55:32 ET    HRL   open 2R +0.030R, 1R -0.006R drop | breakout 2R -0.302R (fired 34), 1R -0.349R drop
+2026-11-23 08:55:33 ET    CALM  open 2R -0.286R, 1R -0.195R drop | breakout 2R -0.174R (fired 37), 1R -0.228R drop
+2026-11-23 08:55:33 ET    MIRM  open 2R -0.138R, 1R -0.053R drop | breakout 2R -0.076R (fired 18), 1R -0.201R drop
+2026-11-23 08:55:34 ET    AEO   open 2R +0.171R, 1R +0.017R KEEP | breakout 2R +0.147R (fired 42), 1R +0.016R WATCH
+2026-11-23 08:55:34 ET    LQDA  open 2R -0.085R, 1R -0.085R drop | breakout 2R +0.052R (fired 35), 1R +0.143R WATCH
+2026-11-23 08:55:35 ET    SARO  open 2R -0.288R, 1R -0.138R drop | breakout 2R +0.139R (fired 24), 1R +0.007R WATCH
+2026-11-23 08:55:36 ET    YUMC  open 2R -0.241R, 1R -0.241R drop | breakout 2R +0.253R (fired 19), 1R +0.136R WATCH
+2026-11-23 08:55:36 ET    TAK   open 2R +0.018R, 1R +0.134R drop | breakout 2R -0.129R (fired 21), 1R -0.038R drop
+2026-11-23 08:55:37 ET    RCI   open 2R -0.015R, 1R -0.035R drop | breakout 2R -0.022R (fired 33), 1R +0.019R drop
+2026-11-23 08:55:37 ET    VNT   open 2R -0.081R, 1R +0.054R drop | breakout 2R -0.173R (fired 35), 1R -0.085R drop
+2026-11-23 08:55:37 ET    COLD  open 2R -0.153R, 1R -0.205R drop | breakout 2R +0.193R (fired 33), 1R +0.077R WATCH
+2026-11-23 08:55:38 ET    JAN   open 2R -0.211R, 1R +0.029R drop | breakout 2R -0.036R (fired 24), 1R +0.084R drop
+2026-11-23 08:55:39 ET    PENN  open 2R +0.084R, 1R +0.000R KEEP | breakout 2R +0.208R (fired 34), 1R +0.207R WATCH
+2026-11-23 08:55:39 ET    PRVA  open 2R +0.288R, 1R +0.178R KEEP | breakout 2R +0.196R (fired 29), 1R +0.124R WATCH
+2026-11-23 08:55:40 ET    MIAX  open 2R -0.013R, 1R -0.067R drop | breakout 2R +0.258R (fired 28), 1R +0.208R WATCH
+2026-11-23 08:55:40 ET    PGNY  open 2R +0.132R, 1R +0.122R KEEP | breakout 2R +0.210R (fired 30), 1R +0.075R WATCH
+2026-11-23 08:55:41 ET    ADMA  open 2R +0.146R, 1R +0.133R KEEP | breakout 2R +0.232R (fired 40), 1R +0.050R WATCH
+2026-11-23 08:55:41 ET    HLF   open 2R -0.095R, 1R +0.167R drop | breakout 2R -0.155R (fired 30), 1R -0.047R drop
+2026-11-23 08:55:42 ET    WWW   open 2R -0.146R, 1R -0.100R drop | breakout 2R -0.125R (fired 31), 1R -0.278R drop
+2026-11-23 08:55:42 ET  intraday watchlist: MIAX (+0.26R), YUMC (+0.25R), ADMA (+0.23R), PGNY (+0.21R), PENN (+0.21R), PRVA (+0.20R), COLD (+0.19R), AEO (+0.15R), SARO (+0.14R), CMG (+0.12R), LQDA (+0.05R)
+2026-11-23 08:55:42 ET    AEO: 0 shares fit (cash left $2.76)
+2026-11-23 08:55:42 ET    BDX: 0 shares fit (cash left $2.76)
+2026-11-23 08:55:42 ET    ADMA: 0 shares fit (cash left $2.76)
+2026-11-23 08:55:42 ET    PGNY: 0 shares fit (cash left $2.76)
+2026-11-23 08:55:42 ET    PENN: 0 shares fit (cash left $2.76)
+2026-11-23 08:55:42 ET  risk PASS [open] PRVA x19 limit 25.15 stop 24.90 target 25.65 max loss $4.75 
+2026-11-23 08:55:42 ET    PLACED [open] PRVA id 499e9551-7be7-40d4-ac0b-0e6d6188d448 status pending_new

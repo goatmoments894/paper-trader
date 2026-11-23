@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "EIX",
+      "symbol": "PRVA",
       "side": "buy",
-      "qty": "13",
+      "qty": "19",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "63.33",
+      "limit_price": "25.15",
       "order_class": "bracket",
-      "take_profit_limit_price": "63.95",
-      "stop_loss_stop_price": "63.02",
-      "why": "opening-range breakout at 10:15 AM, backtest 2R avg +0.38R (fired 33 of 60 sessions)",
+      "take_profit_limit_price": "25.65",
+      "stop_loss_stop_price": "24.90",
+      "why": "buy at the open, bull_flag, backtest 2R avg +0.29R over 60 sessions; ref 25.05 (2026-11-20T20:59:59)",
       "plan": {
-        "entry": 63.33,
-        "stop": 63.02,
-        "target": 63.95,
-        "risk_per_share": 0.31,
-        "max_loss": 4.03,
-        "setup": "orb",
-        "entry_time": "10:15 AM",
+        "entry": 25.15,
+        "stop": 24.9,
+        "target": 25.65,
+        "risk_per_share": 0.25,
+        "max_loss": 4.75,
+        "setup": "open",
+        "entry_time": "9:30 AM",
         "flat_by": "15:55"
       }
     }
