@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "orders": [
     {
-      "status": "placed",
+      "status": "cancelled",
       "date": "2026-11-23",
       "symbol": "PRVA",
       "side": "buy",
@@ -151,5 +151,6 @@
       ]
     }
   ],
-  "planned": true
+  "planned": true,
+  "cancelled_unfilled": true
 }

@@ -38,3 +38,5 @@
 2026-11-23 09:55:20 ET  live MIAX: TRIGGERED 9:50 AM at 37.51 (range 36.97-37.35), live 37.29 (2026-11-23T14:51:48)
 2026-11-23 09:55:21 ET  risk PASS [orb] MIAX x12 limit 37.33 stop 37.16 target 37.67 max loss $2.04 
 2026-11-23 09:55:21 ET    PLACED [orb] MIAX id 15efc458-d4ed-4cab-a63e-2054fd584631 status pending_new
+2026-11-23 10:00:20 ET  cancel: open PRVA buy not filled, cancelled
+2026-11-23 10:00:20 ET  live YUMC: triggered but 0 shares fit (cash $36.47, risk 0.40 a share)
