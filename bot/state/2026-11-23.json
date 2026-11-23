@@ -115,6 +115,29 @@
         "flat_by": "15:55"
       },
       "why": "opening-range breakout at 10:25 AM, backtest 2R avg +0.23R (fired 40 of 60 sessions)"
+    },
+    {
+      "status": "placed",
+      "date": "2026-11-23",
+      "symbol": "CMG",
+      "side": "buy",
+      "kind": "entry",
+      "how": "orb",
+      "qty": "11",
+      "max_loss": 3.19,
+      "id": "adef6dd2-63c3-4b24-843d-d0207ca0c9d8",
+      "client_order_id": "pb-orb-2026-11-23-CMG-1795457421",
+      "plan": {
+        "entry": 36.04,
+        "stop": 35.75,
+        "target": 36.62,
+        "risk_per_share": 0.29,
+        "max_loss": 3.19,
+        "setup": "orb",
+        "entry_time": "1:10 PM",
+        "flat_by": "15:55"
+      },
+      "why": "opening-range breakout at 1:10 PM, backtest 2R avg +0.12R (fired 25 of 60 sessions)"
     }
   ],
   "is_trading_day": true,

@@ -3,24 +3,24 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "ADMA",
+      "symbol": "CMG",
       "side": "buy",
-      "qty": "2",
+      "qty": "11",
       "type": "limit",
       "time_in_force": "day",
-      "limit_price": "13.45",
+      "limit_price": "36.04",
       "order_class": "bracket",
-      "take_profit_limit_price": "13.77",
-      "stop_loss_stop_price": "13.29",
-      "why": "opening-range breakout at 10:25 AM, backtest 2R avg +0.23R (fired 40 of 60 sessions)",
+      "take_profit_limit_price": "36.62",
+      "stop_loss_stop_price": "35.75",
+      "why": "opening-range breakout at 1:10 PM, backtest 2R avg +0.12R (fired 25 of 60 sessions)",
       "plan": {
-        "entry": 13.45,
-        "stop": 13.29,
-        "target": 13.77,
-        "risk_per_share": 0.16,
-        "max_loss": 0.32,
+        "entry": 36.04,
+        "stop": 35.75,
+        "target": 36.62,
+        "risk_per_share": 0.29,
+        "max_loss": 3.19,
         "setup": "orb",
-        "entry_time": "10:25 AM",
+        "entry_time": "1:10 PM",
         "flat_by": "15:55"
       }
     }

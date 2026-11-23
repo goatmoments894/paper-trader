@@ -49,3 +49,6 @@
 2026-11-23 10:30:20 ET  live ADMA: TRIGGERED 10:25 AM at 13.40 (range 13.19-13.38), live 13.44 (2026-11-23T15:30:11)
 2026-11-23 10:30:21 ET  risk PASS [orb] ADMA x2 limit 13.45 stop 13.29 target 13.77 max loss $0.32 
 2026-11-23 10:30:21 ET    PLACED [orb] ADMA id 700ec30c-45f5-4af7-af29-ff3a58ab8b6a status pending_new
+2026-11-23 13:10:20 ET  live CMG: TRIGGERED 1:10 PM at 36.01 (range 35.50-36.00), live 36.01 (2026-11-23T18:09:55)
+2026-11-23 13:10:21 ET  risk PASS [orb] CMG x11 limit 36.04 stop 35.75 target 36.62 max loss $3.19 
+2026-11-23 13:10:21 ET    PLACED [orb] CMG id adef6dd2-63c3-4b24-843d-d0207ca0c9d8 status pending_new
