@@ -57,3 +57,8 @@
 2026-11-23 14:10:21 ET    PLACED [orb] PENN id fe3833bd-59a1-469a-8e97-854ea2c47cbf status pending_new
 2026-11-23 15:55:22 ET  ERROR RuntimeError: DELETE /v2/positions/ADMA -> 403 {"available":"0","code":40310000,"existing_qty":"2","held_for_orders":"2","message":"insufficient qty available for order (requested: 2, available: 0)","symbol":"ADMA"}
 2026-11-23 16:00:22 ET  ERROR RuntimeError: DELETE /v2/positions/ADMA -> 403 {"available":"0","code":40310000,"existing_qty":"2","held_for_orders":"2","message":"insufficient qty available for order (requested: 2, available: 0)","symbol":"ADMA"}
+2026-11-23 16:05:22 ET  flatten: closing ADMA 2 shares (order 53fab127-f57b-472c-b79f-24b85f5e9b55)
+2026-11-23 16:05:22 ET  flatten: closing CMG 11 shares (order 2755f4d1-8f15-41a4-a6ec-cf4ed7fc4a84)
+2026-11-23 16:05:22 ET  flatten: closing PENN 1 shares (order 7f50bc39-3d21-4c61-9a21-67f09e5d114c)
+2026-11-23 16:05:22 ET  flatten: closing YUMC 10 shares (order 7ee6c9b0-27d0-4c18-96a8-cbd473ff3cd8)
+2026-11-23 16:05:22 ET  report: wrote /home/runner/work/paper-trader/paper-trader/reports/2026-11-23.md (P&L $-5.28)
